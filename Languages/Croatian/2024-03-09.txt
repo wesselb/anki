@@ -1,0 +1,100 @@
+L2 | 2024-03-09: Lesson 2
+
+S1 | Phrases
+1 | Ne razumjiem. | I don't understand.
+2 | Možete li ponoviti? | Can you repeat?
+3 | Što znači ...? | What means ...?
+4 | Kako se kaže ...? | How do you say ...?
+5 | Možete li govoriti sporije? | Can you speak slower?
+6 | Pada kiša. | It's raining. (lit.: The rain falls.)
+7 | Nije hladno. | It's not cold.
+8 | Koji je tvoj broj telefona? | What (lit.: which) is your phone number?
+9 | Koja je tvoja adrese? | What (lit.: which) is your address?
+
+S2 | Numbers
+0 | nula | 0
+1 | jedan | 1
+2 | dva | 2
+3 | tri | 3
+4 | četiri | 4
+5 | pet | 5
+6 | šest | 6
+7 | sedam | 7
+8 | osam | 8
+9 | devet | 9
+10 | deset | 10
+11 | jedanaest | 11
+12 | dvanaest | 12
+13 | trinaest | 13
+14 | četrnaest | 14
+15 | petnaest | 15
+16 | šestnaest | 16
+17 | sedamneast | 17
+18 | osamneast | 18
+19 | devetnaest | 19
+20 | dvadeset | 20
+30 | trideset | 30
+40 | četrdeset | 40
+50 | pedeset | 50
+60 | šezdeset | 60
+70 | sedamdeset | 70
+80 | osamdeset | 80
+90 | devedeset | 90
+100 | sto | 100
+200 | dvjesto | 200
+300 | tristo | 300
+400 | četiristo | 400
+500 | petsto | 500
+600 | šesto | 600
+700 | sedamsto | 700
+800 | osamsto | 800
+900 | devesto | 900
+1000 | trisuću | 1000
+2000,3000,4000 | dva/tri/četiri trisuće | 2000/3000/4000
+5000,6000 | pet/šest trisuća | 5000/6000
+1000000 | milijun | 1000000
+
+S3 | Grammar
+1 | jednina | singular
+2 | množina | plural
+3 | pročitati (pročitam) | to read
+4 | prevesti (prevodim) | to translate
+5 | pitati (pitam) | to ask
+6 | kazati (kažem) | to sa
+7 | ponoviti (ponavljam) | to repeat
+
+S4 | Vocabulary
+1 | zadatak | task
+2 | stranica | page, website
+3 | broj | number
+4 | broj mobitela/telefona | phone number
+5 | tvoj(a) | your
+6 | moj(a) | mine
+7 | njezin(a) | her
+8 | njegov(a) | his
+9 | koji/koja | which
+
+S5 | Biti
+1 | Ja sam. Ja nisam. Jesam li ja? Jesam. | I am. I am not. Am I? I am.
+2 | Ti si. Ti nisi. Jesi li ti? Jesi. | You are. You are not. Are you? You are.
+3 | On/ona je. On/ona nije. Je li on/ona? Je. | He/she is. He/she is not. Is he/she? He/she is.
+4 | Mi mso. Mi nismo. Jesmo li mi? Jesma. | We are. We are not. Are we? We are.
+5 | Vi ste. Vi niste. Jeste li Vi/vi? Jeste. | You are. You are not. Are you? You are.
+6 | Oni/one su. Oni/one nisu. Jesu li oni/one? Jesu. | They are. They are not. Are they? They are.
+
+S6 | Vocabulary: Professions
+1 | zanimanje | profession, occupation
+2 | liječnik | doctor
+3 | vodoinstalater | plumber
+4 | policajac | police officer
+5 | detektiv | detective
+6 | blagajnica | cashier
+7 | poštar | postman
+8 | vatrogasac | firefighter
+9 | soboslikar | painter (profession)
+10 | pilot | pilot
+11 | konobar | waiter
+12 | tajnica | secretary
+13 | slikar | painter (artist)
+14 | kuhar | chef
+15 | sudac | referee, judge

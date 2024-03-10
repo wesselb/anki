@@ -1,0 +1,194 @@
+import datetime
+import hashlib
+import logging
+import sys
+from pathlib import Path
+
+import genanki
+
+
+def str_hash(x: str) -> int:
+    """Generate a hash for a string."""
+    return int(hashlib.md5(x.encode()).hexdigest(), 16) % (1 << 32)
+
+
+def generate_deck_id(lesson_num: str, section_num: str) -> int:
+    """Generate a deck ID."""
+    return str_hash(f"{lesson_num}::{section_num}")
+
+
+def generate_note_id(lesson_num: str, section_num: str, note_num: str) -> str:
+    """Generate a note ID."""
+    return genanki.guid_for(lesson_num, section_num, note_num)
+
+
+def load_path(
+    path: Path,
+) -> tuple[tuple[str, str], dict[tuple[str, str], list[tuple[str, str, str]]]]:
+    """Load all files in a folder."""
+
+    sections: dict[tuple[str, str], list[tuple[str, str, str]]] = {}
+    section_name = None
+
+    lesson_name = None
+    lesson_num = None
+
+    with open(path, "r") as f:
+        lines = f.readlines()
+
+    for line in lines:
+        line = line.strip()
+
+        # Ignore empty lines. An empty line also ends any section.
+        if not line:
+            section_name = None
+            continue
+
+        # The first non-empty line is the lesson name.
+        if lesson_num is None:
+            lesson_num, lesson_name = line.split("|")
+            lesson_num = lesson_num.strip().lower()
+            lesson_name = lesson_name.strip()
+            continue
+
+        # Afterwards, every consecutive block of non-empty lines is a section.
+        num_bars = sum(x == "|" for x in line)
+
+        # One bar specifies a section name.
+        if num_bars == 1:
+            if section_name is not None:
+                raise RuntimeError("Encountered double section name.")
+
+            num, name = line.split("|")
+            num = num.strip().lower()
+            name = name.strip()
+
+            section_name = (num, name)
+            sections[section_name] = []
+
+        # Two bars specify a note.
+        elif num_bars == 2:
+            if section_name is None:
+                raise RuntimeError("Encountered section without name.")
+
+            num, left, right = line.split("|")
+            num = num.strip().lower()
+            left = left.strip()
+            right = right.strip()
+
+            sections[section_name].append((num, left, right))
+
+        # Anything else is not valid.
+        else:
+            raise RuntimeError(f"Line `{line}` contains {num_bars} bar(s).")
+
+    if lesson_num is None or lesson_name is None:
+        raise RuntimeError("Did not specify a lesson name.")
+
+    return (lesson_num, lesson_name), sections
+
+
+# Define fairly vanilla Anki model which questions both ways.
+model = genanki.Model(
+    1760709464,
+    "Question and Answer",
+    fields=[
+        {"name": "left"},
+        {"name": "right"},
+    ],
+    templates=[
+        {
+            "name": "Left to Right",
+            "qfmt": "{{left}}",
+            "afmt": '{{left}}<hr id="answer">{{right}}',
+        },
+        {
+            "name": "Right to Left",
+            "qfmt": "{{right}}",
+            "afmt": '{{right}}<hr id="answer">{{left}}',
+        },
+    ],
+)
+
+
+def main() -> None:
+    now = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+
+    apkgs: list[Path] = []
+
+    for directory, header, out_name in [
+        (Path("./Languages/Croatian"), "Croatian", "croatian.apkg"),
+        (Path("./Languages/Dutch"), "Dutch", "dutch.apkg"),
+    ]:
+        # Determine the output directory.
+        out = directory / "output" / now
+        out.mkdir(parents=True, exist_ok=True)
+
+        # Create a logger for this deck.
+        logger = logging.getLogger(header)
+        logger.setLevel(logging.INFO)
+        formatter = logging.Formatter("[%(asctime)s] %(levelname)s: %(message)s")
+        # Write to standard output.
+        stdout_handler = logging.StreamHandler(sys.stdout)
+        stdout_handler.setLevel(logging.DEBUG)
+        stdout_handler.setFormatter(formatter)
+        logger.addHandler(stdout_handler)
+        # Also write to a file.
+        file_handler = logging.FileHandler(out / "log.txt")
+        file_handler.setLevel(logging.DEBUG)
+        file_handler.setFormatter(formatter)
+        logger.addHandler(file_handler)
+
+        # Load all lessons.
+        lessons = dict(load_path(p) for p in sorted(directory.glob("*.txt")))
+
+        # Be sure to not duplicate decks or notes.
+        seen_decks: set[int] = set()
+        seen_notes: set[str] = set()
+
+        # Generate a deck for every section in every lesson.
+        decks = []
+        for (lesson_num, lesson_name), sections in lessons.items():
+            for (section_num, section_name), section in sections.items():
+                deck_name = f"{header}::{lesson_name}::{section_name}"
+                deck_id = generate_deck_id(lesson_num, section_num)
+                deck = genanki.Deck(deck_id, deck_name)
+                logger.info(f"Generating deck `{deck_name}` ({deck_id}).")
+
+                # Check that the deck does not already exist.
+                if deck_id in seen_decks:
+                    raise RuntimeError(
+                        "Already generated deck `{deck_name}` ({deck_id})."
+                    )
+                else:
+                    seen_decks.add(deck_id)
+
+                for num, left, right in section:
+                    note_id = generate_note_id(lesson_num, section_num, num)
+                    logger.info(f"Adding note with ID `{note_id}`.")
+                    note = genanki.Note(
+                        model=model,
+                        fields=[left, right],
+                        guid=note_id,
+                    )
+
+                    # Check that the note does not already exist.
+                    if note_id in seen_notes:
+                        raise RuntimeError("Already generated note `{note_id}`.")
+                    else:
+                        seen_notes.add(note_id)
+
+                    deck.add_note(note)
+                decks.append(deck)
+        package = genanki.Package(decks)
+        package.write_to_file(out / out_name)
+        apkgs.append(out / out_name)
+        logger.info(f"Written to `{out/out_name}`.")
+
+    print("Written Anki packages:")
+    for apkg in apkgs:
+        print(apkg.resolve())
+
+
+if __name__ == "__main__":
+    main()

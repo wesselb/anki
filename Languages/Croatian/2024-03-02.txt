@@ -1,0 +1,79 @@
+L1 | 2024-03-02: Lesson 1
+
+S1 | Grammar
+1 | muški rod | male
+2 | ženski rod | female
+3 | srednji rod | neuter
+4 | formalno | formal 
+5 | neformalno | informal
+
+S2 | Phrases (Basic Phrases)
+1 | Kako se zoveš? Zovem se Wessel. | How are you called? I am called Wessel.
+2 | Odakle si? Ja sam iz Nizozemske. | Where are you from? I am from the Netherlands.
+3 | Kak(o) si? Dobro/super sam. A ti? | How are you? I am good/great. And you? (informal)
+4 | Kako ste? Dobro/super sam. A Vi? | How are you? I am good/great. And you? (formal)
+5 | Šta ima? Nema ništa. | What's up? Not much.
+6 | Kako ide? Ide dobro. | How is it going? It goes well.
+7 | Jesi živ(a)? Živ(a) sam. | Are you alive? I am alive.
+8 | Gdje/dje/di si? Evo me. | Where are you? Here I am.
+9 | Dobro jutro! | Good morning!
+10 | Dobar dan! | Good day!
+11 | Dobra večer! | Good evening!
+12 | može | OK
+13 | molim | please
+14 | izvoli | here you are / here is (informal)
+15 | izvolite | here you are / here is (formal)
+16 | oprosti | sorry / excuse me (informal)
+17 | oprostite | sorry / excuse me (formal)
+18 | hvala | thank you
+
+S3 | Vocabulary
+1 | učiti (učim) | to learn
+2 | isto | also
+3 | pitanje | question
+4 | gladan | hungry
+5 | žedan | thirsty
+6 | umoran | tired
+7 | sendvič | sandwich
+8 | kauč | couch
+9 | sok | juice
+10 | kolega | colleague (male) 
+11 | kolegica | colleague (female) 
+12 | danas | today
+13 | polaznik | course participant (male)
+14 | polaznica | course participant (female)
+15 | učenik | pupil (male)
+16 | učenica | pupil (female)
+
+S4 | Vocabulary: Good and Bad
+1 | odlično | excellent (more common)
+2 | izvrsno | excellent
+3 | really good | jako dobro
+4 | very good | vrlo dobro
+5 | good | dobro
+6 | Nisam loše. | I'm not bad.
+7 | tako-tako | so-so
+8 | loše | bad
+9 | vrlo loše | very bad
+10 | jako loše | really bad 
+11 | užasno | terrible
+12 | očajno | desparate
+
+S5 | Vocabulary: Classroom
+1 | ploča | board, as in whiteboard or blackboard
+2 | profesor | professor (male)
+3 | profesorica | professor (female)
+4 | papir | paper
+5 | knjiga | book
+6 | stol | table
+7 | stolica | chair
+8 | sat | hour / clock
+9 | vrata | door
+10 | prozor | window
+11 | kemijska (olovka) | pen (lit.: chemical pencil)
+12 | olovka | pencil
+13 | student | student (male)
+14 | studentica | student (female)
+15 | svjetlo | light
+16 | bilježnica | notebook
+
