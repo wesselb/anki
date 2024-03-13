@@ -1,5 +1,2 @@
-requests
 genanki
-aiohttp
-pyyaml
-numpy
+click
