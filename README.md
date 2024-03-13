@@ -82,6 +82,24 @@ You can adjust various options:
 
 ```bash
 $ python generate_decks.py --help
+Usage: generate_decks.py [OPTIONS]
+
+  Generate an Anki deck.
+
+Options:
+  --path DIRECTORY                Path to directory with lesson files.
+                                  [required]
+  --name TEXT                     Name of the deck. Defaults to the name of
+                                  the folder specified by `--path`.
+  --way [both-ways|left-to-right|right-to-left]
+                                  How to question the cards.
+  --help                          Show this message and exit.
+```
+
+For the above Dutch example, to only translate from Dutch to English, run
+
+```bash
+$ python generate_decks.py --path ./Dutch --way right-to-left
 ```
 
 ## Existing Decks

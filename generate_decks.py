@@ -3,7 +3,7 @@ import hashlib
 import logging
 import sys
 from pathlib import Path
-from typing import Optional
+from typing import Literal, Optional
 
 import click
 import genanki
@@ -90,9 +90,9 @@ def load_path(
     return (lesson_num, lesson_name), sections
 
 
-Way = Literal["both_ways", "left_to_right", "right_to_left"]
+Way = Literal["both-ways", "left-to-right", "right-to-left"]
 models: dict[Way, genanki.Model] = {
-    "both_ways": genanki.Model(
+    "both-ways": genanki.Model(
         1760709464,
         "Question and Answer",
         fields=[
@@ -112,7 +112,7 @@ models: dict[Way, genanki.Model] = {
             },
         ],
     ),
-    "left_to_right": genanki.Model(
+    "left-to-right": genanki.Model(
         1760709464 + 1,
         "Question and Answer",
         fields=[
@@ -127,7 +127,7 @@ models: dict[Way, genanki.Model] = {
             },
         ],
     ),
-    "right_to_left": genanki.Model(
+    "right-to-left": genanki.Model(
         1760709464 + 2,
         "Question and Answer",
         fields=[
