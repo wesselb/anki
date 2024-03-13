@@ -62,7 +62,7 @@ groenten | Groenten
 3 | bloemkool | cauliflower
 ```
 
-When you make changes, e.g. to correct typos, it is important that all identifiers remain the same. This will allow Anki to correctly merge changes into your existing deck and preserve your progress.
+When you make changes, e.g. to correct typos, it is important that all identifiers remain the same. This will allow Anki to correctly merge changes into your existing decks and preserve your progress.
 
 To generate the Anki `apkg`, run `generate_decks.py`, as follows:
 
