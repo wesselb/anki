@@ -3,7 +3,9 @@ import hashlib
 import logging
 import sys
 from pathlib import Path
+from typing import Optional
 
+import click
 import genanki
 
 
@@ -111,83 +113,95 @@ model = genanki.Model(
 )
 
 
-def main() -> None:
+@click.command(help="Generate an Anki deck.")
+@click.option(
+    "--path",
+    "path_in",
+    type=click.Path(
+        exists=True,
+        file_okay=False,
+        dir_okay=True,
+        resolve_path=True,
+        path_type=Path,
+    ),
+    required=True,
+    help="Path to directory with lesson files.",
+)
+@click.option(
+    "--name",
+    "header",
+    type=str,
+    required=False,
+    help="Name of the deck. Defaults to the name of the folder specified by `--path`.",
+)
+def main(path_in: Path, header: Optional[str]) -> None:
     now = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    header = header or path_in.stem.capitalize()
 
-    apkgs: list[Path] = []
+    # Determine the output directory.
+    path_out = path_in / "output" / now
+    path_out.mkdir(parents=True, exist_ok=True)
 
-    for directory, header, out_name in [
-        (Path("./Languages/Croatian"), "Croatian", "croatian.apkg"),
-        (Path("./Languages/Dutch"), "Dutch", "dutch.apkg"),
-    ]:
-        # Determine the output directory.
-        out = directory / "output" / now
-        out.mkdir(parents=True, exist_ok=True)
+    # Generate the output name from the header.
+    out_name = header.lower().replace(" ", "_") + ".apkg"
 
-        # Create a logger for this deck.
-        logger = logging.getLogger(header)
-        logger.setLevel(logging.INFO)
-        formatter = logging.Formatter("[%(asctime)s] %(levelname)s: %(message)s")
-        # Write to standard output.
-        stdout_handler = logging.StreamHandler(sys.stdout)
-        stdout_handler.setLevel(logging.DEBUG)
-        stdout_handler.setFormatter(formatter)
-        logger.addHandler(stdout_handler)
-        # Also write to a file.
-        file_handler = logging.FileHandler(out / "log.txt")
-        file_handler.setLevel(logging.DEBUG)
-        file_handler.setFormatter(formatter)
-        logger.addHandler(file_handler)
+    # Create a logger for this deck.
+    logger = logging.getLogger(header)
+    logger.setLevel(logging.INFO)
+    formatter = logging.Formatter("[%(asctime)s] %(levelname)s: %(message)s")
+    # Write to standard output.
+    stdout_handler = logging.StreamHandler(sys.stdout)
+    stdout_handler.setLevel(logging.DEBUG)
+    stdout_handler.setFormatter(formatter)
+    logger.addHandler(stdout_handler)
+    # Also write to a file.
+    file_handler = logging.FileHandler(path_out / "log.txt")
+    file_handler.setLevel(logging.DEBUG)
+    file_handler.setFormatter(formatter)
+    logger.addHandler(file_handler)
 
-        # Load all lessons.
-        lessons = dict(load_path(p) for p in sorted(directory.glob("*.txt")))
+    # Load all lessons.
+    lessons = dict(load_path(p) for p in sorted(path_in.glob("*.txt")))
 
-        # Be sure to not duplicate decks or notes.
-        seen_decks: set[int] = set()
-        seen_notes: set[str] = set()
+    # Be sure to not duplicate decks or notes.
+    seen_decks: set[int] = set()
+    seen_notes: set[str] = set()
 
-        # Generate a deck for every section in every lesson.
-        decks = []
-        for (lesson_num, lesson_name), sections in lessons.items():
-            for (section_num, section_name), section in sections.items():
-                deck_name = f"{header}::{lesson_name}::{section_name}"
-                deck_id = generate_deck_id(lesson_num, section_num)
-                deck = genanki.Deck(deck_id, deck_name)
-                logger.info(f"Generating deck `{deck_name}` ({deck_id}).")
+    # Generate a deck for every section in every lesson.
+    decks = []
+    for (lesson_num, lesson_name), sections in lessons.items():
+        for (section_num, section_name), section in sections.items():
+            deck_name = f"{header}::{lesson_name}::{section_name}"
+            deck_id = generate_deck_id(lesson_num, section_num)
+            deck = genanki.Deck(deck_id, deck_name)
+            logger.info(f"Generating deck `{deck_name}` ({deck_id}).")
 
-                # Check that the deck does not already exist.
-                if deck_id in seen_decks:
-                    raise RuntimeError(
-                        "Already generated deck `{deck_name}` ({deck_id})."
-                    )
+            # Check that the deck does not already exist.
+            if deck_id in seen_decks:
+                raise RuntimeError("Already generated deck `{deck_name}` ({deck_id}).")
+            else:
+                seen_decks.add(deck_id)
+
+            for num, left, right in section:
+                note_id = generate_note_id(lesson_num, section_num, num)
+                logger.info(f"Adding note with ID `{note_id}`.")
+                note = genanki.Note(
+                    model=model,
+                    fields=[left, right],
+                    guid=note_id,
+                )
+
+                # Check that the note does not already exist.
+                if note_id in seen_notes:
+                    raise RuntimeError("Already generated note `{note_id}`.")
                 else:
-                    seen_decks.add(deck_id)
+                    seen_notes.add(note_id)
 
-                for num, left, right in section:
-                    note_id = generate_note_id(lesson_num, section_num, num)
-                    logger.info(f"Adding note with ID `{note_id}`.")
-                    note = genanki.Note(
-                        model=model,
-                        fields=[left, right],
-                        guid=note_id,
-                    )
-
-                    # Check that the note does not already exist.
-                    if note_id in seen_notes:
-                        raise RuntimeError("Already generated note `{note_id}`.")
-                    else:
-                        seen_notes.add(note_id)
-
-                    deck.add_note(note)
-                decks.append(deck)
-        package = genanki.Package(decks)
-        package.write_to_file(out / out_name)
-        apkgs.append(out / out_name)
-        logger.info(f"Written to `{out/out_name}`.")
-
-    print("Written Anki packages:")
-    for apkg in apkgs:
-        print(apkg.resolve())
+                deck.add_note(note)
+            decks.append(deck)
+    package = genanki.Package(decks)
+    package.write_to_file(path_out / out_name)
+    logger.info(f"Written to `{(path_out / out_name).resolve()}`.")
 
 
 if __name__ == "__main__":
