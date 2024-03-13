@@ -71,7 +71,7 @@ $ python generate_decks.py --path ./Dutch
 ...
 <Output>
 ...
-[2024-03-13 09:31:05,792] INFO: Written to `./Dutch/output/2024-03-13_09-31-05/croatian.apkg`.
+[2024-03-13 09:31:05,792] INFO: Written to `./Dutch/output/2024-03-13_09-31-05/dutch.apkg`.
 ```
 
 Then open the mentioned `apkg` at the end of the output to import your Decks into Anki.
