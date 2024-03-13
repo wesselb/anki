@@ -1,7 +1,7 @@
 L2 | 2024-03-09: Lesson 2
 
 S1 | Phrases
-1 | Ne razumjiem. | I don't understand.
+1 | Ne razumijem. | I don't understand.
 2 | Možete li ponoviti? | Can you repeat?
 3 | Što znači ...? | What means ...?
 4 | Kako se kaže ...? | How do you say ...?
@@ -9,7 +9,7 @@ S1 | Phrases
 6 | Pada kiša. | It's raining. (lit.: The rain falls.)
 7 | Nije hladno. | It's not cold.
 8 | Koji je tvoj broj telefona? | What (lit.: which) is your phone number?
-9 | Koja je tvoja adrese? | What (lit.: which) is your address?
+9 | Koja je tvoja adresa? | What (lit.: which) is your address?
 
 S2 | Numbers
 0 | nula | 0
@@ -60,7 +60,7 @@ S3 | Grammar
 3 | pročitati (pročitam) | to read
 4 | prevesti (prevodim) | to translate
 5 | pitati (pitam) | to ask
-6 | kazati (kažem) | to sa
+6 | kazati (kažem) | to say
 7 | ponoviti (ponavljam) | to repeat
 
 S4 | Vocabulary
@@ -76,10 +76,10 @@ S4 | Vocabulary
 
 S5 | Biti
 1 | Ja sam. Ja nisam. Jesam li ja? Jesam. | I am. I am not. Am I? I am.
-2 | Ti si. Ti nisi. Jesi li ti? Jesi. | You are. You are not. Are you? You are.
+2 | Ti si. Ti nisi. Jesi li ti? Jesi. | You are. You are not. Are you? You are. (singular)
 3 | On/ona je. On/ona nije. Je li on/ona? Je. | He/she is. He/she is not. Is he/she? He/she is.
-4 | Mi mso. Mi nismo. Jesmo li mi? Jesma. | We are. We are not. Are we? We are.
-5 | Vi ste. Vi niste. Jeste li Vi/vi? Jeste. | You are. You are not. Are you? You are.
+4 | Mi mso. Mi nismo. Jesmo li mi? Jesmo. | We are. We are not. Are we? We are.
+5 | Vi ste. Vi niste. Jeste li Vi/vi? Jeste. | You are. You are not. Are you? You are. (plural)
 6 | Oni/one su. Oni/one nisu. Jesu li oni/one? Jesu. | They are. They are not. Are they? They are.
 
 S6 | Vocabulary: Professions
