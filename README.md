@@ -33,7 +33,7 @@ Dutch/Lesson 2.txt
 Dutch/Lesson 3.txt
 ```
 
-This will generate three Anki decks: `English::Lesson 1`, `English::Lesson 2`, and `English::Lesson 3`.
+This will generate three Anki decks: `Dutch::Lesson 1`, `Dutch::Lesson 2`, and `Dutch::Lesson 3`.
 
 The syntax for a lesson file is as follows:
 ```
@@ -84,7 +84,7 @@ You can adjust various options:
 $ python generate_decks.py --help
 Usage: generate_decks.py [OPTIONS]
 
-  Generate an Anki deck.
+  Generate Anki decks.
 
 Options:
   --path DIRECTORY                Path to directory with lesson files.
@@ -96,7 +96,7 @@ Options:
   --help                          Show this message and exit.
 ```
 
-For the above Dutch example, to only translate from Dutch to English, run
+For the above Dutch example, to only translate from English to Dutch, run
 
 ```bash
 $ python generate_decks.py --path ./Dutch --way right-to-left

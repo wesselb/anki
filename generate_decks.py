@@ -145,7 +145,7 @@ models: dict[Way, genanki.Model] = {
 }
 
 
-@click.command(help="Generate an Anki deck.")
+@click.command(help="Generate Anki decks.")
 @click.option(
     "--path",
     "path_in",
