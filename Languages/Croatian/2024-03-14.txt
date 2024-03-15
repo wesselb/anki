@@ -1,0 +1,79 @@
+L3 | 2024-03-14: Lesson 3
+
+S1 | Phrases
+1 | Što/šta radiš? / Čime se baviš? | What do you do?
+2 | Što si po zanimanju? | What is your profession?
+
+S2 | Grammar
+1 | postaviti (postavim) | to set (up)
+2 | standardna grupa | standard groups
+3 | palatali | palatals
+4 | slog | syllable
+
+S3 | Vocabulary
+1 | istraživači (fem.: -ica) | researcher
+2 | istraživati (istraživam) | to research
+3 | matchati (matcham) | to match
+4 | čovjek, ljudi | man/person, people
+5 | brat, braća | brother, brothers
+6 | dijete, djeca | child, children
+7 | šišmiš | bat
+8 | susjec | neighbour
+9 | nebo | sky
+10 | polje | field
+11 | računalo | computer
+12 | trg | square
+13 | most | bridge
+14 | vlak | train
+15 | brod | ship
+16 | miš | mouse
+17 | vojnik | soldier
+18 | dječak | boy, boyfriend
+19 | glumac | actor
+20 | soba | room
+
+S4 | Vocabulary: House
+1 | kuća | house
+2 | auto | auto
+3 | tu | here
+4 | prostorija | room
+5 | kupaonica | bathroom
+6 | spavaća soba | bedroom
+7 | dnevna soba | living room
+8 | kuhinja | kitchen
+9 | kada | bathtub
+10 | umivaonik | sink
+11 | stolica | chair
+12 | krevet | bed
+13 | stol za stolni tenis | table for table tennis
+14 | naslonjač | armchair
+15 | stolić | small table
+16 | televizor | TV
+17 | ormar | locker, cabinet
+18 | ormarić | cupboard
+19 | nož | knife
+20 | vino | wine
+21 | pivo | beer
+
+S5 | Vocabulary: Professions: Male and Female
+1 | profesor (+ica) | professor
+2 | zubar (+ica) | dentist
+3 | slikar (+ica) | painter (artist)
+4 | kuhar (+ica) | chef
+5 | konobar (+ica) | waiter
+6 | prodavač (+ica) | salesman
+7 | učitelj (+ica) | teacher
+8 | čistač (+ica) | cleaner
+9 | ekomonist | economist
+10 | tajnik (-ca) | secretary
+11 | liječnik (-ca) | doctor
+12 | blagajnik (-ca) | casheer
+13 | odvjetnik (-ca) | lawyer
+14 | frizer (+ka) | hairdresser
+15 | bolničar (+ka) | paramedic
+16 | informatičar (+ka) | computer scientist
+17 | automehaničar (+ka) | car mechanic
+18 | veterinar (+ka) | veterinarian
+19 | sudac, sutkinja | judge, referee
+20 | policajac, policajka | police officer
+

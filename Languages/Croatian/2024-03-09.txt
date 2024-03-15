@@ -28,7 +28,7 @@ S2 | Numbers
 13 | trinaest | 13
 14 | četrnaest | 14
 15 | petnaest | 15
-16 | šestnaest | 16
+16 | šesnaest | 16
 17 | sedamneast | 17
 18 | osamneast | 18
 19 | devetnaest | 19
