@@ -220,7 +220,7 @@ def main(path_in: Path, header: Optional[str], way: Way) -> None:
 
             # Check that the deck does not already exist.
             if deck_id in seen_decks:
-                raise RuntimeError("Already generated deck `{deck_name}` ({deck_id}).")
+                raise RuntimeError(f"Already generated deck `{deck_name}` ({deck_id}).")
             else:
                 seen_decks.add(deck_id)
 
@@ -235,7 +235,7 @@ def main(path_in: Path, header: Optional[str], way: Way) -> None:
 
                 # Check that the note does not already exist.
                 if note_id in seen_notes:
-                    raise RuntimeError("Already generated note `{note_id}`.")
+                    raise RuntimeError(f"Already generated note `{note_id}`.")
                 else:
                     seen_notes.add(note_id)
 
