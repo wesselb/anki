@@ -11,7 +11,7 @@ S2 | Grammar
 4 | slog | syllable
 
 S3 | Vocabulary
-1 | istraživači (fem.: -ica) | researcher
+1 | istraživač (fem.: -ica) | researcher
 2 | istraživati (istraživam) | to research
 3 | matchati (matcham) | to match
 4 | čovjek, ljudi | man/person, people
@@ -64,7 +64,7 @@ S5 | Vocabulary: Professions: Male and Female
 6 | prodavač (+ica) | salesman
 7 | učitelj (+ica) | teacher
 8 | čistač (+ica) | cleaner
-9 | ekomonist | economist
+9 | ekomonist (+ica) | economist
 10 | tajnik (-ca) | secretary
 11 | liječnik (-ca) | doctor
 12 | blagajnik (-ca) | casheer
