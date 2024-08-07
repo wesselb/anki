@@ -1,0 +1,62 @@
+L6 | 2024-07-31: Lesson 6
+
+S1 | Grammar
+1 | pogoditi (pogodim) | to guess
+2 | pogledati (pogledam) | to see
+3 | čiji, čija, čije, čiji, čije, čija | whose
+
+S2 | Vocabulary
+1 | stablo | tree
+2 | ponekad | sometimes
+3 | strog | strict
+4 | drugi | other, second
+5 | svi | all
+6 | taksist | taxi driver
+7 | kozmetičar (+ka) | cosmetician
+8 | penzioner | retired
+9 | pas | dog
+10 | mačak, mačka | cat
+11 | ali | but (connects a complete sentence)
+12 | nego | but (after a negation, only gives the correction)
+13 | govornik | speaker
+14 | slika | picture
+
+S3 | Family
+1 | mama | mom
+2 | tata | dad
+3 | brat, braća | brother
+4 | sestra | sister
+5 | baka | grandma
+6 | djed | grandfather
+7 | unuk | grandson
+8 | unuka | granddaughter
+9 | sin | son
+10 | kći | daughter
+11 | nećakinja | niece
+12 | nećak | nephew
+13 | bratić | cousin, first (male)
+14 | rođak | cousin, higher (male)
+15 | sestrična | cousin, first (female)
+16 | rođakinja | cousin, higher (female)
+17 | stric | uncle (brother of dad)
+18 | strina | aunt (sister-in-law of dad)
+19 | ujak | uncle (brother of mom)
+20 | ujna | aunt (sister-in-law of mom)
+21 | tetak | uncle (brother-in-law of mom or dad)
+22 | teta | aunt (sister of mom or dad)
+23 | snaha, snaja | daughter-in-law
+24 | zet | son-in-law
+25 | svekar | father-in-law
+26 | svekrva | mother-in-law
+27 | roditelj | parent
+
+S4 | Possessive pronouns
+1 | my | moj, moja, moje, moji, moje, moja
+2 | your (singular) | tvoj, tvoja, tvoje, tvoji, tvoje, tvoja
+3 | her | njezin, njezina, njezino, njezini, njezine, njezina
+4 | his | njegov, njegova, njegovo, njegovi, njegove, njegova
+5 | our | naš, naša, naše, naši, naše, naša
+6 | your (plural) | vaš, vaša, vaše, vaši, vaše, vaša (formal: Vaš)
+7 | their | njihov, njihova, njihovo, njihovi, njihove, njihova
+
+

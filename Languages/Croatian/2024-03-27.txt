@@ -1,0 +1,100 @@
+L4 | 2024-03-27: Lesson 4
+
+S1 | Grammar
+1 | točno | true
+2 | netočno | false
+3 | pridjev | adjective
+4 | suproten | opposite
+5 | izabrati (izaberem) | to choose
+6 | točan | correct
+7 | muškarac | man, male person
+8 | žena | woman, female person
+
+S2 | Vocabulary
+1 | satovi | clocks/watches
+2 | sati | hours
+3 | pa ... | well, ...
+4 | važno | important
+5 | naravno | of course
+
+S3 | Adjectives
+1 | zadovoljan | satisfied
+1-2 | nezadovoljan | unsatisfied
+2 | moderan | modern
+2-2 | staromodan | old-fashioned
+3 | nov | new
+3-2 | mlad | young
+3-3 | star | old
+4 | svijetao | bright
+4-2 | taman | dark
+5 | velik | big
+5-2 | mal (less common: malen) | small
+6 | jeftin | cheap
+6-2 | skup | expensive
+7 | hladan | cold
+7-2 | topao | warm
+7-3 | vruć | hot
+8 | širok | wide
+8-2 | uzak | narrow, tight
+9 | ružan | ugly
+9-2 | lijep | beautiful
+10 | udoban | comfortable
+10-2 | neudoban | uncomfortable
+11 | ukusan | tasty
+11-2 | neukusan | not tasty, distasteful
+12 | sretan | happy
+12-2 | tužan | sad
+12-3 | veseo | cheerful
+13 | čist | clean
+13-2 | prljav | dirty
+14 | kratak | short (not people)
+14-3 | dugačak | long (not people)
+15 | debeo | fat, thick
+15-2 | tanak | thin
+15-3 | vitak | slim
+16 | visok | high, tall (people)
+16-2 | nizak | low, short (people)
+17 | drag | nice, dear
+18 | simpatičan | likable
+19 | dobar | good
+19-2 | zao | evil
+19-3 | loš | bad
+20 | zanimljiv | interesting
+20-2 | dosadan | boring
+21 | lak | easy, light
+21-2 | jednostavan | easy, simple
+21-3 | težak | hard
+22 | odličan | excellent
+23 | smiješan | funny
+24 | zreo | mature
+24-2 | nezreo | immature
+25 | miran | quiet
+25-2 | glasan | loud
+26 | oženjen | married (male)
+26-2 | neoženjen | unmarried (male)
+27 | udana | married (female)
+27-2 | neudana | unmarried (female)
+28 | zgodan | handsome (also applies to females)
+29 | sladak | sweet, cute
+
+S4 | Nouns
+1 | stan | apartment
+2 | hladnjak | fridge
+3 | čaj | tea
+4 | trava | grass 
+5 | sunce | sun
+6 | more | sea
+7 | rajčica | tomato
+
+S5 | Colours
+1 | crvena | red
+2 | plava | blue
+3 | zelena | green
+4 | žuta | yellow
+5 | narančasta | orange
+6 | smeđa | brown
+7 | ružičasta | pink
+8 | bijela | white
+9 | crna | black
+10 | tamnoplava | dark blue
+11 | sjevtloplava | light blue

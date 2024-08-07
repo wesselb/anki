@@ -18,7 +18,7 @@ S3 | Vocabulary
 5 | brat, braća | brother, brothers
 6 | dijete, djeca | child, children
 7 | šišmiš | bat
-8 | susjec | neighbour
+8 | susjed | neighbour
 9 | nebo | sky
 10 | polje | field
 11 | računalo | computer
