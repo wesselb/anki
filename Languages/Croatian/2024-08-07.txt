@@ -8,7 +8,7 @@ S1 | Grammar
 S2 | Vocabulary
 1 | novčanik | wallet
 2 | novac | money
-3 | sudoper | sink
+3 | sudoper | kitchen sink
 4 | pismo | letter
 5 | sladoled | ice cream
 6 | jezero | lake

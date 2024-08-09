@@ -42,7 +42,7 @@ S4 | Vocabulary: House
 7 | dnevna soba | living room
 8 | kuhinja | kitchen
 9 | kada | bathtub
-10 | umivaonik | sink
+10 | umivaonik | bathroom sink
 11 | stolica | chair
 12 | krevet | bed
 13 | stol za stolni tenis | table for table tennis
