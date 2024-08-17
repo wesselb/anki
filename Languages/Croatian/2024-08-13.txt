@@ -1,0 +1,86 @@
+L8 | 2024-08-13: Lesson 8
+
+S1 | Grammar
+1 | neživo | inaminate
+2 | živa bića | animate
+3 | ispisati | write out
+4 | oblik | form
+5 | ispravan | correct
+
+S2 | Vocabulary
+1 | znači (adverb) | so
+2 | bicikl | bike
+3 | šminka | make-up
+4 | raketa | racket
+5 | radna soba | study room
+6 | gitara | guitar
+7 | ptica | bird
+8 | ribica | fish
+9 | balon | baloon
+10 | odijelo | suit
+11 | štickla | heel
+12 | nogomet | football
+13 | igračka | toy
+14 | navečer | in the evening
+15 | večeras | this evening, tonight
+16 | poslije + gen. | after
+17 | samo | only
+18 | vikend | weekend
+19 | ljeti | in the summer
+20 | zimi | in the winter
+21 | večera | dinner
+22 | svaki | every, each
+23 | nikada | never
+24 | novinar | journalist
+25 | predsjednik | president
+26 | puno | a lot
+27 | parka | park
+28 | tuš | shower
+29 | slobodan | free
+30 | papiga | parrot
+31 | haljina | dress
+32 | posao | job
+33 | momak | guy
+34 | ujutro | in the morning
+35 | novine | newspaper
+36 | klavir | piano
+37 | juha | soup
+38 | glazba | music
+39 | cijeli | whole
+40 | pokraj + gen. | near
+41 | opera | opera
+42 | van | out
+
+S3 | Verbs
+1 | gledati | to watch
+2 | čitati | to read
+3 | pjevati | to sing
+4 | plivati | to swim
+5 | hodati | to walk (functional, habit)
+6 | spavati | to sleep
+7 | slušati | to listen
+8 | pričati | to talk
+9 | kuhati | to cook
+10 | pitati | to ask
+11 | igrati | to play (in every sense but playing instruments)
+12 | svirati | to play (instrument)
+13 | čekati | to wait
+14 | imati | to have
+15 | nemati | to not have
+16 | telefonirati | to hold a telephone conversation (without object)
+17 | razgovorati | to converse
+18 | spremati | to tidy up
+18-se | spremati se | to get ready (lit.: to tidy up oneself)
+19 | skijati | to ski
+20 | šetati | to walk (recreational)
+21 | znati | to know
+22 | značiti | to mean
+
+S4 | Weekdays
+1 | ponedjeljak | Monday
+2 | utorak | Tuesday
+3 | srijeda | Wednesday
+4 | četvrtak | Thursday
+5 | petak | Friday
+6 | subota | Saturday
+7 | nedjelja | Sunday
