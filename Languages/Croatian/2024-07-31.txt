@@ -2,7 +2,7 @@ L6 | 2024-07-31: Lesson 6
 
 S1 | Grammar
 1 | pogoditi (pogodim) | to guess
-2 | pogledati (pogledam) | to see
+2 | pogledati (pogledam) | to see, to look
 3 | čiji, čija, čije, čiji, čije, čija | whose
 
 S2 | Vocabulary

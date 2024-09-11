@@ -1,0 +1,33 @@
+L10 | 2024-09-11: Lesson 10
+
+S1 | Grammar
+1 | asocijacija | association
+2 | organizirati | to organise
+3 | po redu | in order
+4 | slovo | letter
+5 | rečenica | sentence
+6 | nedostajati (nedostajem) | to miss
+7 | spojiti (spojim) | to connect
+
+S2 | Vocabulary
+1 | identičan | identical
+2 | žao mi je | I'm sorry (less formal)
+3 | jezik | language
+4 | ustvari | actually
+5 | ključ | key
+6 | cigarete | cigarette
+7 | rođendan | birthday
+8 | trčati (trčim) | to run
+9 | ležati (lazim) | to lie down
+10 | učionik | classroom
+11 | rado | gladly (uncommon)
+12 | plaža | beach
+13 | zajedno | together
+14 | dan, dani | day, days
+
+S3 | Seasons
+1 | proljeće | spring
+2 | jesen | autumn
+3 | ljeto | summer
+4 | zima | winter
+5 | godišnja doba | season

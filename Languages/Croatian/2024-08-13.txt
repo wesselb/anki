@@ -42,7 +42,7 @@ S2 | Vocabulary
 32 | posao | job
 33 | momak | guy
 34 | ujutro | in the morning
-35 | novine | newspaper
+35 | novine (pl.) | newspaper
 36 | klavir | piano
 37 | juha | soup
 38 | glazba | music
@@ -68,8 +68,8 @@ S3 | Verbs
 14 | imati | to have
 15 | nemati | to not have
 16 | telefonirati | to hold a telephone conversation (without object)
-17 | razgovorati | to converse
-18 | spremati | to tidy up
+17 | razgovarati | to converse
+18 | spremati | to prepare / tidy up
 18-se | spremati se | to get ready (lit.: to tidy up oneself)
 19 | skijati | to ski
 20 | šetati | to walk (recreational)

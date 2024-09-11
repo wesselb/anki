@@ -1,0 +1,94 @@
+L9 | 2024-08-20: Lesson 9
+
+S1 | Grammar
+1 | kćer | daughter (acc.)
+2 | ovaj, ova, ovo, ovi, ove, ova | this (all forms) 
+3 | glagol | verb
+4 | konjugirati | to conjugate
+
+S2 | How Often
+1 | nikad (use with negation: ... nikad ne ...) | never
+2 | rijetko | rarely
+3 | ponekad, nekad, katkad | sometimes
+4 | često | often
+5 | uvijek, stalno | always
+6 | svaki dan | every day
+
+S3 | Frequency
+1 | jedanput ... | once ...
+2 | dvaput ... | twice ...
+3 | triput ... | three times ...
+4 | četiri puta ... | four times ...
+5 | ... dnevno | ... a day
+6 | ... tjedno | ... a week
+7 | ... mjesečno | ... a month
+8 | ... godišnje | ... a year
+
+S4 | Vocabulary
+1 | pjesma | song
+2 | televizija | television
+3 | kompjuter | computer
+4 | dok | while
+5 | čokolada | chocolate
+6 | fotografija | photograph
+7 | šešir | hat
+8 | kaput | coat
+9 | fotoaparat | camera
+10 | premijer | prime minister
+11 | serija | series
+12 | crkva | church
+13 | voda | water
+14 | zračna luka | airport
+15 | zoološki vrt | zoo
+16 | željeznička stanica | train station
+17 | bolnica | hospital
+18 | planina | mountain
+19 | rijeka | river
+20 | torta | cake
+21 | odrezak | steak
+22 | glavno jelo | main course
+23 | zelena salata | lettuce (lit.: green salad)
+24 | krumpir | potato
+25 | prilog | side dish
+26 | omiljen | favourite
+27 | obala | coast
+28 | otok | island
+29 | možda | perhaps
+30 | neki | some
+31 | dio, dijelovi | part, parts
+32 | početak | beginning
+
+S5 | Verbs
+1 | trenirati | to train
+2 | tuširati se | to shower
+3 | provjeravati | to check
+4 | češljati se | to comb your hair (lit.: comb yourself)
+5 | vježbati | to exercise
+6 | piti (pijem) | to drink
+7 | voljeti (volim) | to love
+8 | pripremati | to prepare
+9 | napraviti | to make
+10 | upoznati | to get to know
+11 | posjetiti | to visit
+12 | čuti (čujem) | to hear
+
+S6 | More Verbs
+1 | žuriti | to hurry
+2 | govoriti | to speak
+3 | pušiti | to smoke
+4 | misliti | to think
+5 | sjediti | to sit
+7 | mrziti | to hate
+8 | voziti | to drive
+9 | vidjeti | to see
+10 | čistiti | to clean
+11 | moliti | to pray
+12 | kupiti | to buy
+13 | buljiti | to stare
+14 | slaviti | to celebrate
+15 | letjeti | to fly
+16 | željeti | to want
+17 | raditi | to work
+18 | sjediti | to sit
+19 | kasniti | to be late
+20 | tražiti | to look for
