@@ -49,9 +49,9 @@ S2 | Numbers
 700 | sedamsto | 700
 800 | osamsto | 800
 900 | devesto | 900
-1000 | trisuću | 1000
-2000,3000,4000 | dva/tri/četiri trisuće | 2000/3000/4000
-5000,6000 | pet/šest trisuća | 5000/6000
+1000 | tisuću | 1000
+2000,3000,4000 | dva/tri/četiri tisuće | 2000/3000/4000
+5000,6000 | pet/šest tisuća | 5000/6000
 1000000 | milijun | 1000000
 
 S3 | Grammar

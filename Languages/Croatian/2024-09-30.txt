@@ -1,0 +1,54 @@
+L11 | 2024-09-30: Recap of First Semester
+
+S1 | Adjectives
+1 | strpljiv | patient
+2 | kompliciran | complicated
+3 | zločest | naughty
+4 | slan | salty
+
+S2 | Nouns
+1 | cipela | shoe
+2 | ćirilica | Cyrillic
+3 | dvorac | castle
+4 | džep | pocket
+5 | đurđica | lily
+6 | flauta | flute
+7 | igla | needle
+8 | jaje | egg
+9 | kravata | tie
+10 | lubenica | watermelon
+11 | ljubica | violet
+12 | njiva | field
+13 | oblak | cloud
+14 | šuma | forest
+15 | vuna | wool
+16 | zastava | flag
+17 | žaba | frog
+18 | lav | lion
+19 | medicinska sestra / medicinski tehničar (brat) | nurse
+20 | ureda | office
+21 | supruga | wife
+22 | nogometna lopta | football (the ball)
+23 | centar | centre
+24 | zabava | party
+25 | kupaći kostim | swimsuit
+26 | krema za sunčanje | suncream
+27 | sunčane naočale | sunglasses
+28 | pijesak | sand
+29 | kiša | rain
+
+S3 | Verbs
+1 | dolaziti (dolazim) | to come
+2 | provesti (provedem) | to spend
+3 | zaboraviti (zaboravim) | to forget
+4 | ponijeti (ponesem) | to take
+5 | nositi (nosim) | to wear
+6 | obilaziti (obilazim) | to go around
+7 | graditi (gradim) | to build
+8 | pobjeći (pbjegnem, pobjegneš) | to run away
+9 | ljetovati (ljetujem) | to be on vacation
+
+S4 | Other
+1 | prije + gen. | before
+2 | kao | like
+3 | od + gen. | from
