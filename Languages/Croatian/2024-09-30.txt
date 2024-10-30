@@ -26,7 +26,7 @@ S2 | Nouns
 17 | žaba | frog
 18 | lav | lion
 19 | medicinska sestra / medicinski tehničar (brat) | nurse
-20 | ureda | office
+20 | ured | office
 21 | supruga | wife
 22 | nogometna lopta | football (the ball)
 23 | centar | centre

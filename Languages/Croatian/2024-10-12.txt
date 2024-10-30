@@ -8,7 +8,7 @@ S1 | Mixed
 5 | banana | banana
 6 | razveden | divorced
 7 | zdrav | healthy
-8 | jesti | to eat
+8 | jesti (jedem) | to eat
 9 | planirati (planiram) | to plan
 10 | naočale (pl.) | glasses
 11 | priča | story

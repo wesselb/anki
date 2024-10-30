@@ -34,7 +34,7 @@ S2 | Vocabulary
 24 | novinar | journalist
 25 | predsjednik | president
 26 | puno | a lot
-27 | parka | park
+27 | park | park
 28 | tuš | shower
 29 | slobodan | free
 30 | papiga | parrot

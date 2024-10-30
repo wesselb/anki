@@ -1,0 +1,47 @@
+L15 | 2024-10-29: Semester 2: Lesson 1
+
+S1 | Vocabulary
+1 | predmet | subject
+2 | pozdrav | greeting
+3 | vrijeme | time / weather
+4 | koatičan | chaotic
+5 | hrana | food
+6 | već | already
+7 | Što radiš? | What are you doing?
+8 | pusa | kiss
+9 | kamo | where to
+10 | fantastičan | fantastic
+
+S2 | Prepositions
+1 | na večeru | to dinner
+2 | na predstavu | to a show
+3 | na izložbu | to an exhibition
+4 | na aerodrom / u zračnu luku | to the airport
+5 | na autobusnu stanicu | to a bus stop
+6 | na benzinsku pumpu / na benzinsku postaju | to a gas station
+7 | u bolnicu | to a hospital
+8 | u crkvu | to a church
+9 | u hotel | to a hotel
+10 | na igralište | to a playground
+11 | u kazalište | to a theater
+12 | na željeznički kolodvor / na željezničku stanicu | to a train station
+13 | u ljekarnu | to a pharmacy
+14 | u restoran | to a restaurant
+15 | na zahod | to the toilet
+16 | u školu | to school
+17 | u muzej | to a museum
+18 | u ured za turističke informacije | to the tourist information office
+19 | u dvoranu | to a hall / auditorium
+20 | u park | to a park
+21 | u Almere | to Almere
+22 | u Nizozemsku | to the Netherlands
+23 | u more | into the sea
+24 | na more | to the sea
+25 | na fakultet | to the faculty
+26 | na livadu | to a meadow
+27 | na Maltu (or any island) | to Malta (or any island)
+28 | na Oktoberfest | to Octoberfest
+29 | na predavanje | to a lecture
+30 | na koncert | to a concert
+31 | na utakmicu | to a match
+32 | na bazen | to a pool
