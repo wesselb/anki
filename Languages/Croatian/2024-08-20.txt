@@ -66,7 +66,7 @@ S5 | Verbs
 5 | vježbati | to exercise
 6 | piti (pijem) | to drink
 7 | voljeti (volim) | to love
-8 | pripremati | to prepare
+8 | pripremati | to prepare (prepare something specifically)
 9 | napraviti | to make
 10 | upoznati | to get to know
 11 | posjetiti | to visit

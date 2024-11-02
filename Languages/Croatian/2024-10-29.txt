@@ -14,7 +14,7 @@ S1 | Vocabulary
 
 S2 | Prepositions
 1 | na večeru | to dinner
-2 | na predstavu | to a show
+2 | na predstavu | to a play/show
 3 | na izložbu | to an exhibition
 4 | na aerodrom / u zračnu luku | to the airport
 5 | na autobusnu stanicu | to a bus stop
@@ -24,7 +24,7 @@ S2 | Prepositions
 9 | u hotel | to a hotel
 10 | na igralište | to a playground
 11 | u kazalište | to a theater
-12 | na željeznički kolodvor / na željezničku stanicu | to a train station
+12 | na željeznički kolodvor | to a train station
 13 | u ljekarnu | to a pharmacy
 14 | u restoran | to a restaurant
 15 | na zahod | to the toilet

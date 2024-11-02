@@ -20,7 +20,7 @@ S2 | Nouns
 11 | ljubica | violet
 12 | njiva | field
 13 | oblak | cloud
-14 | šuma | forest
+14 | šuma | woods, forest
 15 | vuna | wool
 16 | zastava | flag
 17 | žaba | frog

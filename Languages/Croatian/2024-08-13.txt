@@ -69,7 +69,7 @@ S3 | Verbs
 15 | nemati | to not have
 16 | telefonirati | to hold a telephone conversation (without object)
 17 | razgovarati | to converse
-18 | spremati | to prepare / tidy up
+18 | spremati | to prepare / clean / tidy up (in an everyday sense)
 18-se | spremati se | to get ready (lit.: to tidy up oneself)
 19 | skijati | to ski
 20 | šetati | to walk (recreational)

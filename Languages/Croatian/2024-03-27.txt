@@ -68,7 +68,7 @@ S3 | Adjectives
 23 | smiješan | funny
 24 | zreo | mature
 24-2 | nezreo | immature
-25 | miran | quiet
+25 | miran | quiet, silent
 25-2 | glasan | loud
 26 | oženjen | married (male)
 26-2 | neoženjen | unmarried (male)
