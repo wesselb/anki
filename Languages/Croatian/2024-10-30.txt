@@ -4,7 +4,7 @@ S1 | Vocabulary
 1 | knjižnica | library
 2 | sastanak | meeting
 3 | povremeno | periodically
-4 | s vremena na vrijeme
+4 | s vremena na vrijeme | from time to time
 5 | stanica | stop
 6 | kolodvor | station
 7 | trgovina | shop
