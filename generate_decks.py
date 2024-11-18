@@ -244,6 +244,8 @@ def main(path_in: Path, header: Optional[str], way: Way) -> None:
     package = genanki.Package(decks)
     package.write_to_file(path_out / out_name)
     logger.info(f"Written to `{(path_out / out_name).resolve()}`.")
+    logger.info(f"Total decks: {len(seen_decks)}.")
+    logger.info(f"Total notes: {len(seen_notes)}.")
 
 
 if __name__ == "__main__":

@@ -15,7 +15,7 @@ S2 | Vocabulary
 5 | radna soba | study room
 6 | gitara | guitar
 7 | ptica | bird
-8 | ribica | fish
+8 | ribica | small fish
 9 | balon | baloon
 10 | odijelo | suit
 11 | štickla | heel
