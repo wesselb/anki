@@ -1,0 +1,58 @@
+L20 | 2024-11-21: Semester 2: Lesson 6
+
+S1 | Meats
+1 | svinja, svinjetina | pig, pork
+2 | pile, piletina | chicken, chicken meat
+3 | purica, puretina | turkey, turkey meat
+4 | govedo, govedina | cow, beef
+5 | tele, teletina | calf, veal
+6 | janje, janjetina | lamb, lamb meat
+
+S2 | Drinks
+1 | bevanda | wine with water
+2 | bambus | red wine with cola
+3 | gemišt | white wine with sparkling water
+4 | miš maš | red wine with fanta or orange juice
+
+S3 | Fish and Sea Fruits
+1 | morski plodovi | sea fruits
+2 | orada | seabream
+3 | pastrva | trout
+4 | zubatac | dentex
+5 | brancin | sea bass
+6 | škarpina | grouper
+7 | arbun | common pandora / Spanish seabream
+8 | oslić | hake
+9 | srdele (pl.) | sardines
+10 | lignje (pl.) | squid
+11 | kamenice (pl.) | oysters
+12 | dagnje (pl.) | mussles
+13 | haringe (pl.) | herring
+14 | jelgula | eel
+
+S4 | Milk and milk products
+1 | mliječni proizvodi | milk products
+2 | maslac | butter
+3 | kiselo vrhnje | sour cream
+4 | slatko vrhnje | sweet cream
+5 | šlag | whipped cream
+6 | mliječni namaz | milk spread
+
+S5 | Flavours
+0 | okus | taste, flavour
+1 | sladak | sweet
+2 | slan | salty
+3 | kiseo | sour
+4 | ljut | hot
+5 | gorak | bitter
+6 | šećer | sugar
+7 | kiseli krastavci (pl.) | pickles
+
+S6 | Miscellaneous
+1 | zamisliti (zamislim) | to imagine
+2 | opisati (opisujem) | to describe
+3 | egzotičan | exotic
+4 | običan | usual, common
+5 | probati (probam) | to try
+6 | avokado (sg.) | avocado
+7 | višnje (pl.) | sour cherries

@@ -16,7 +16,7 @@ S2 | Vocabulary
 7 | ulaznica | ticket (for concert)
 8 | karta | ticket (for e.g. tram)
 9 | paket | package
-10 | namirnica | grocery
+10 | namirnice (pl.) | groceries, ingredients
 11 | poseban | special
 12 | gost | guest
 13 | gaziran | sparkling
@@ -28,45 +28,45 @@ S2 | Vocabulary
 19 | po noći | at night
 
 S3 | Foods
-1 | slatkiš | sweet
+1 | slatkši (pl.) | sweets
 2 | keks | biscuit
 3 | frape | frappe
 4 | šejk | shake
 5 | mlijeko | milk
 6 | mliječan proizvod | dairy product
-7 | krastavac | cucumber
+7 | krastavci (sg.) | cucumber
 8 | voćni jogurt | fruit yoghurt
 9 | sir | cheese
-10 | povrće | vegetable
-11 | mrkva | carrot
-12 | brokula | broccoli
-13 | šparoga | asparagus
-14 | grašak | pea
-15 | mahuna | green bean
-16 | kukuruz | corn
+10 | povrće (sg.) | vegetables
+11 | mrkve (pl.) | carrot
+12 | brokula (sg.) | broccoli
+13 | šparoge (pl.) | asparagus
+14 | grašak (sg.) | peas
+15 | mahune (pl.) | green beans
+16 | kukuruz (sg.) | corn
 17 | tortilja | tortilla
 18 | kreker | cracker
-19 | pahuljice | sweet cereal
-20 | žitarice / žitne pahuljice | non-sweet cereal
-21 | zobene pahuljice | oat meal
-22 | naranča | orange
-23 | grožđe | grape
+19 | pahuljice (pl.) | sweet cereal
+20 | žitarice / žitne pahuljice (pl.) | non-sweet cereal
+21 | zobene pahuljice (pl.) | oat meal
+22 | naranče (pl.) | oranges
+23 | grožđe (pl.) | grapes
 24 | mafin | muffin
 25 | krafna | donut
 26 | riža | rice
 27 | tjestenina | pasta
-28 | jagoda | strawberry
+28 | jagode (pl.) | strawberries
 29 | voćka, voće | fruit, fruits
-30 | dinja | melon
-31 | kikirik | peanut
+30 | dinja (sg.) | melon
+31 | kikiriki (pl.) | peanuts
 32 | meso | meat
 33 | kikiriki maslac | peanut butter
 34 | piletina | chicken
-35 | bombon | candy
+35 | bombon (sg.) | candy
 36 | lizalica | lollipop
-37 | čips | crisps
+37 | čips (sg.) | crisps
 38 | majoneza | mayonnaise
-39 | patlidžan | eggplant
+39 | patlidžan (sg.) | aubergine
 
 
 
