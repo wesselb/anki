@@ -50,5 +50,5 @@ S3 | Verbs
 
 S4 | Other
 1 | prije + gen. | before
-2 | kao | like
+2 | kao | like, as
 3 | od + gen. | from

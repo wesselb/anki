@@ -1,0 +1,29 @@
+L21 | 2024-11-26: Semester 2: Lesson 7
+
+S1 | Miscellaneous
+1 | degree | stupanj
+2 | lazanje | lasagne
+3 | bečki | Viennese
+4 | burrito | burrito
+5 | sushi | sushi
+6 | odmah | immediately
+7 | radije | rather
+8 | nažalost | unfortunately
+9 | zabranjen | prohibited, forbidden
+10 | u redu | alright
+11 | naručiti (naručim) | to order
+12 | piće | drink
+13 | in five minutes | za pet minuta
+14 | pisati (pišem) | to write
+15 | koristiti (koristim) | to use
+16 | vezati (vežem) | to tie
+17 | kineske štapiće | Chinese chopsticks
+18 | žonglirati (žongliram) | to juggle
+19 | glasovir | piano
+
+S2 | Modal verbs
+1 | modalni glagoli | modal verbs
+2 | morati, trebati, željeti, voljeti, smjeti, moći, htjeti | list all modal verbs
+3 | moći (mogu, možeš, ..., mogu) | to can
+4 | htjeti ((ho)ću, (ho)ćeš, ..., (ho)će) | to will / to want
+5 | neću, nećeš, ..., neće | to will not

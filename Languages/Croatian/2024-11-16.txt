@@ -9,7 +9,7 @@ S1 | Eating
 6 | večera, večerati | dinner, to have dinner
 
 S2 | Vegetables
-1 | cvjetača (sg.) | califlower
+1 | cvjetača (sg.) | cauliflower
 2 | rajčice (pl.) | tomato
 3 | tikvice (pl.) | courgiette
 4 | rotkvice (pl.) | radish

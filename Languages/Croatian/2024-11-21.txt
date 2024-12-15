@@ -26,7 +26,7 @@ S3 | Fish and Sea Fruits
 9 | srdele (pl.) | sardines
 10 | lignje (pl.) | squid
 11 | kamenice (pl.) | oysters
-12 | dagnje (pl.) | mussles
+12 | dagnje (pl.) | mussels
 13 | haringe (pl.) | herring
 14 | jelgula | eel
 
@@ -56,3 +56,4 @@ S6 | Miscellaneous
 5 | probati (probam) | to try
 6 | avokado (sg.) | avocado
 7 | višnje (pl.) | sour cherries
+8 | rasti (rastem) | to grow

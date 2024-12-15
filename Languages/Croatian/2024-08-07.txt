@@ -15,7 +15,7 @@ S2 | Vocabulary
 7 | zemlja | country
 8 | kafić | coffee shop
 9 | ruka | hand
-10 | pecivo | bagel
+10 | pecivo | sweet pastry or baked good from bakery
 11 | noga | foot
 12 | selo | village
 13 | škola | school

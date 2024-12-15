@@ -12,7 +12,7 @@ S2 | Vocabulary
 3 | riba | fish
 4 | predjelo | appetizer
 5 | palačinke | pancake
-6 | kolač | cake, pastry
+6 | kolač | small cake, pastry
 7 | ulaznica | ticket (for concert)
 8 | karta | ticket (for e.g. tram)
 9 | paket | package
@@ -56,7 +56,7 @@ S3 | Foods
 26 | riža | rice
 27 | tjestenina | pasta
 28 | jagode (pl.) | strawberries
-29 | voćka, voće | fruit, fruits
+29 | voće (sg.) | fruit
 30 | dinja (sg.) | melon
 31 | kikiriki (pl.) | peanuts
 32 | meso | meat
