@@ -8,6 +8,7 @@ S1 | Vocabulary
 5 | ostatak | change (for money)
 6 | žvake | chewing gum
 7 | šampon | shampoo
+8 | jelovnik | menu
 
 S2 | Sentences
 1 | Koliko je stupnjeva? | What is the temperature outside?
