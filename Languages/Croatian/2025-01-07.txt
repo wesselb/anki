@@ -1,0 +1,24 @@
+L25 | 2025-01-07: Semester 2: Lesson 11
+
+S1 | Vocabulary
+1 | trenutak | a moment
+2 | ime | name, first name
+3 | prezime | surname 
+4 | jedan, jedna, jedno | one
+5 | dva, dvije, dva | two
+6 | ni | neither
+7 | domać | house
+8 | miješan | mixed
+9 | kobasica | sausage
+10 | alergičan | allergic
+11 | vegetarijanac (-ka) | vegetarian
+12 | dijeta | diet
+13 | popodne | afternoon
+
+S2 | Ways of Saying Things
+1 | samo malo | a moment (lit.: only a little)
+2 | za glavno jelo | for the main dish
+3 | kao prilog | as a sidedish
+4 | Može lazanje. | Lasange is okay.
+5 | Može li lazanje? | Is lasange okay?
+6 | za mene | for me

@@ -1,7 +1,7 @@
 L21 | 2024-11-26: Semester 2: Lesson 7
 
 S1 | Miscellaneous
-1 | degree | stupanj
+1 | stupanj, stupnjeva | degree
 2 | lazanje | lasagne
 3 | bečki | Viennese
 4 | burrito | burrito
@@ -13,7 +13,7 @@ S1 | Miscellaneous
 10 | u redu | alright
 11 | naručiti (naručim) | to order
 12 | piće | drink
-13 | in five minutes | za pet minuta
+13 | za pet minuta | in five minutes
 14 | pisati (pišem) | to write
 15 | koristiti (koristim) | to use
 16 | vezati (vežem) | to tie
