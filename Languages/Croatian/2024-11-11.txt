@@ -28,7 +28,7 @@ S2 | Vocabulary
 19 | po noći | at night
 
 S3 | Foods
-1 | slatkši (pl.) | sweets
+1 | slatkiši (pl.) | sweets
 2 | keks | biscuit
 3 | frape | frappe
 4 | šejk | shake
