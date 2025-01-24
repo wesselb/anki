@@ -1,0 +1,54 @@
+L27 | 2025-01-14: Semester 2: Lesson 13
+
+S1 | Amounts
+1 | malo | a little
+2 | puno | a lot
+3 | manje | less
+4 | više | more
+5 | premalo | too little
+6 | previše | too much
+7 | bez | without
+8 | dovoljno (formal) / dosta (informal) | enough
+9 | nekoliko | some
+10 | litra (gen. pl.: litara) | liter
+11 | gram, dekagram, kilogram | gram, decagram, kilogram
+12 | deciliter | deciliter
+13 | žlica, žličica | spoon, tea spoon
+14 | šalica | cup
+15 | tanjur | plate
+16 | komad | piece
+17 | kutija | box
+18 | porcija | portion
+19 | boca | bottle
+20 | kuglica | ball (e.g. of ice cream)
+21 | par | couple
+22 | glavica | head (e.g. of lettude)
+23 | teglica | jar
+24 | kocka | cube
+
+S2 | Vocabulary
+1 | džezva | traditional Croatian coffee pot
+2 | nesica | instant coffee
+3 | kapučino | cappuccino
+4 | ičega | anything
+5 | crna kava | black coffee
+6 | turska kava | Turkish coffee
+7 | šibice (pl.) | matches
+8 | sol (gen.: soli) | salt
+9 | šunka | ham
+10 | na primjer | for example 
+11 | ćevapčići (pl.) | traditional Balkan sausages
+12 | pašteta | pate
+13 | losos (sg.) | salmon
+14 | marmelada | marmelade
+15 | dobiti (dobijem) | to get
+16 | ostava | pantry
+17 | brašno | flour
+18 | zamrzivača | freezer
+19 | ulje | oil
+20 | masline (pl.) | olives
+21 | plac | open air market
+22 | punica | mother-in-law
+23 | salama | salami
+24 | badem (sg.) | almond
+25 | džem | jam
