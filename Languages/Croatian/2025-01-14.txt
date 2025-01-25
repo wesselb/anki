@@ -48,7 +48,8 @@ S2 | Vocabulary
 19 | ulje | oil
 20 | masline (pl.) | olives
 21 | plac | open air market
-22 | punica | mother-in-law
+22 | punica | mother-in-law (from male side)
+22-2 | punac | father-in-law (from male side)
 23 | salama | salami
 24 | badem (sg.) | almond
 25 | džem | jam

@@ -46,8 +46,8 @@ S3 | Family
 22 | teta | aunt (sister of mom or dad)
 23 | snaha, snaja | daughter-in-law
 24 | zet | son-in-law
-25 | svekar | father-in-law
-26 | svekrva | mother-in-law
+25 | svekar | father-in-law (from female side)
+26 | svekrva | mother-in-law (from female side)
 27 | roditelj | parent
 
 S4 | Possessive pronouns
