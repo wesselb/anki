@@ -54,7 +54,7 @@ S4 | Vocabulary
 27 | obala | coast
 28 | otok | island
 29 | možda | perhaps
-30 | neki | some
+30 | neki | some (adjective)
 31 | dio, dijelovi | part, parts
 32 | početak | beginning
 

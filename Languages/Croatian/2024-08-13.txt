@@ -47,7 +47,7 @@ S2 | Vocabulary
 37 | juha | soup
 38 | glazba | music
 39 | cijeli | whole
-40 | pokraj + gen. | near
+40 | pokraj + gen. | next to (spatial)
 41 | opera | opera
 42 | van | out
 

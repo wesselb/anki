@@ -1,0 +1,54 @@
+L29 | 2025-02-10: Semester 2: Lesson 15
+
+S1 | Time
+1 | Devet do pet je. / Sati je šesnaest i pedeset jedna minuta.  | It is 4:51 pm.
+2 | Dvadeset tri do pet je. / Sata su četiri i trideset sedam minuta. | It is 4:37 am.
+3 | Sati je trinaest i dvadeset tri minute. | It is 1:23 pm.
+4 | Sat je jedan i dvadeset šest minuta. | It is 1:26 am.
+5 | Pola šest je. | It is 5:30 am/pm.
+6 | Pola pet je. | It is 4:30 am/pm.
+7 | podne | noon
+8 | ponoć | midnight
+9 | jučer | yesterday
+10 | uskoro | soon
+11 | nakon | after
+
+S2 | Miscenallenous
+1 | Ma polako! | Take it easy!
+2 | mjesec (gen. pl.: mjeseci) | month
+3 | mjesec (gen. pl.: mjeseca) | moon
+4 | godina | year
+5 | oko | about
+6 | približno | approximately, roughly
+7 | Požuri se! | Hurry up!
+8 | barem | at least 
+9 | pravo | right
+10 | Imaš pravo. | You are right.
+11 | moguće | possibly
+12 | skoro | almost
+13 | osim | except
+14 | osim toga | besides (lit.: except of that)
+15 | sigurno | certainly
+16 | tko, itko, netko, nitko | who, anyone, someone, no one
+17 | kamo, ikamo, nekamo, nikamo | where to, anywhere, somewhere, nowhere
+
+S3 | Verb
+1 | trajati (trajem) | to last, to continue
+2 | završiti (završim) | to finish, to end
+3 | izgledati (izgledam) | to look like
+
+S4 | Nouns and adjectives
+1 | trudna | pregnant
+2 | oporavak | recovery
+3 | projekt | project
+4 | termin | term, date, appointment
+5 | banka | bank
+6 | plin | gas (house)
+7 | struja | electricity (house)
+8 | porez | tax
+9 | smeće | garbage
+10 | vreća | bag
+11 | gljive (pl.) | mushrooms
+12 | prostran | spacious
+13 | slanina | bacon
+14 | orah (sg.) | walnut

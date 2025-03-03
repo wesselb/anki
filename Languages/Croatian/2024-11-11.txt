@@ -23,9 +23,9 @@ S2 | Vocabulary
 14 | smjeti (smijem) | to be allowed, to may
 15 | obično | usually
 16 | razglednica | postcard
-17 | koga | who
+17 | koga | who (acc./gen.)
 18 | kost, kosti (f.) | bone, bones
-19 | po noći | at night
+19 | noću | at night
 
 S3 | Foods
 1 | slatkiši (pl.) | sweets

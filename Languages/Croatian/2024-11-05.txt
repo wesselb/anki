@@ -24,7 +24,7 @@ S2 | Vocabulary
 4 | ribar | fisherman
 5 | Hajdemo! | Let's go!
 6 | ga | him (acc.)
-7 | zvati | to call
+7 | zvati (zovem) | to call
 8 | vjenčanje | wedding
 9 | s nama | with us
 10 | tulum | party (less common)

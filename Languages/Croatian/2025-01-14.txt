@@ -22,7 +22,7 @@ S1 | Amounts
 19 | boca | bottle
 20 | kuglica | ball (e.g. of ice cream)
 21 | par | couple
-22 | glavica | head (e.g. of lettude)
+22 | glavica | head (e.g. of lettuce)
 23 | teglica | jar
 24 | kocka | cube
 

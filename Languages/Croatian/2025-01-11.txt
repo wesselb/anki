@@ -13,5 +13,5 @@ S1 | Vocabulary
 S2 | Sentences
 1 | Koliko je stupnjeva? | What is the temperature outside?
 2 | Jedan je stupanj. | It is one degree.
-3 | Dva je stupnja. | It is two degrees.
+3 | Dva su stupnja. | It is two degrees.
 4 | Pet je stupnjeva. | It is five degrees.
