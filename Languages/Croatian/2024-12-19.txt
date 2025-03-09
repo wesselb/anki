@@ -13,5 +13,5 @@ S1 | Vocabulary
 10 | trenutno | right now
 11 | najviše | the most
 12 | blizu + gen. | near
-13 | kraj + gen. | next to (spatial), end/border of something
+13 | kraj + gen. | next to (emphasise closeness), at the edge/end of
 14 | zato | therefore

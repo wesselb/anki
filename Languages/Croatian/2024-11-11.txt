@@ -38,7 +38,7 @@ S3 | Foods
 8 | voćni jogurt | fruit yoghurt
 9 | sir | cheese
 10 | povrće (sg.) | vegetables
-11 | mrkve (pl.) | carrot
+11 | mrkva (sg.) | carrot
 12 | brokula (sg.) | broccoli
 13 | šparoge (pl.) | asparagus
 14 | grašak (sg.) | peas

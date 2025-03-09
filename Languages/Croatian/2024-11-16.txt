@@ -15,7 +15,7 @@ S2 | Vegetables
 4 | rotkvice (pl.) | radish
 5 | paprika (sg.) | paprika
 6 | krumpir (sg.) | potato
-7 | mrkve (pl.) | carrot
+7 | mrkva (sg.) | carrot
 8 | kupus (sg.) | lettuce
 9 | kukuruz (sg.) | corn
 10 | luk (sg.) | onion
@@ -49,5 +49,5 @@ S3 | Fruits
 14 | trešnje (pl.) | cherries
 15 | limeta (sg.) | lime
 16 | breskve (pl.) | peaches
-17 | kivi (sg., f.) | kiwi
+17 | kivi, kiviji (sg., f.) | kiwi
 18 | marelice (pl.) | apricots

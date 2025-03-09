@@ -46,8 +46,8 @@ S3 | Vocabulary
 16 | učenica | pupil (female)
 
 S4 | Vocabulary: Good and Bad
-1 | odlično | excellent (more common)
-2 | izvrsno | excellent
+1 | odlično | excellent
+2 | izvrsno | excellent (less common)
 3 | really good | jako dobro
 4 | very good | vrlo dobro
 5 | good | dobro

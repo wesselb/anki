@@ -30,13 +30,13 @@ S3 | Vocabulary
 17 | vojnik | soldier
 18 | dječak | boy, boyfriend
 19 | glumac | actor
-20 | soba | room
+20 | soba | room (with function)
 
 S4 | Vocabulary: House
 1 | kuća | house
 2 | auto | auto
 3 | tu | here
-4 | prostorija | room
+4 | prostorija | room (empty space, storage, abstract)
 5 | kupaonica | bathroom
 6 | spavaća soba | bedroom
 7 | dnevna soba | living room
@@ -46,7 +46,7 @@ S4 | Vocabulary: House
 11 | stolica | chair
 12 | krevet | bed
 13 | stol za stolni tenis | table for table tennis
-14 | naslonjač | armchair
+14 | naslonjač | armchair (less common)
 15 | stolić | small table
 16 | televizor | TV
 17 | ormar | locker, cabinet

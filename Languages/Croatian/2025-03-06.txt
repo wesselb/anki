@@ -1,0 +1,66 @@
+L30 | 2025-03-06: Semester 2: Lesson 16
+
+S1 | Vocabulary
+1 | zrak | air
+2 | blagovati | to dine (higher standard, religious purpose, for a festive purpose)
+3 | kupati se | to bathe
+4 | praznik | holiday (public)
+5 | blagdan | holiday (religious)
+6 | kila | kilogram (alternative)
+7 | kotao | boiler
+8 | pot | lonac
+9 | lid of pot | poklopac
+10 | frying pan | tava
+11 | fork | vilica
+
+S2 | Miscellaneous
+1 | a | conjunction for opposites or different things
+2 | na toalet | to the toilet
+
+S3 | Rooms and Furniture
+1 | namještaj | furniture
+2 | vešeraj | laundry room
+3 | čistionica | cleaning room/facility
+4 | tavan | attic (empty, used for storage)
+5 | potkrovlje | loft / attic (used for living)
+6 | garaža | garage
+7 | blagovaonica | dining room
+8 | podrum | basement
+9 | (dućni) ured | (home) office
+10 | (dnevi) boravak | living room (alternative)
+11 | kotlovnica | boiler room (large)
+12 | polica | shelf
+13 | komoda | commode, dresser
+14 | svjetiljka, lampa | lamp
+15 | perilica suđa | dishwasher (less common)
+15-2 | mašina za suđe | dishwasher
+16 | perilica rublja | washing machine (less common)
+16-2 | mašina za veš | washing machine
+17 | ogledalo | mirror
+17-2 | zrcalo | mirror (formal)
+18 | štednjak | stove (formal)
+18-2 | šporet | stove
+19 | zastor | curtains (formal, thick)
+19-2 | zavjese | curtains (also light)
+20 | tepih | carpet
+21 | pećnica | oven
+22 | u spavaćoj sobi | in the bedroom
+23 | u kupaonici | in the bathroom
+24 | frižider | fridge
+25 | fotelja | armchair
+26 | dvosjed | two-seater (couch)
+27 | trosjed | tri-seater (couch)
+28 | četverosjed | four-seater (couch)
+29 | garnitura | set of furniture
+30 | kutna garnitura | L-shaped or U-shaped sofa (set)
+31 | u dnevnoj sobi | in the living room
+
+S4 | Prepositions
+1 | iza + gen. | behind
+2 | ispred + gen. | in front of
+3 | iznad + gen. | above
+4 | ispod + gen. | below
+5 | između + gen. | between
+6 | kraj + gen. | next to (emphasise closeness), at the edge/end of
+7 | pokraj + gen. | right next to (direct adjacency)
+8 | pored + gen. | next to (general)

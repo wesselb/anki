@@ -27,7 +27,7 @@ S2 | Prepositions
 12 | na željeznički kolodvor | to a train station
 13 | u ljekarnu | to a pharmacy
 14 | u restoran | to a restaurant
-15 | na zahod | to the toilet
+15 | na zahod | to the toilet (less common)
 16 | u školu | to school
 17 | u muzej | to a museum
 18 | u ured za turističke informacije | to the tourist information office

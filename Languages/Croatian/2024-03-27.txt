@@ -79,7 +79,7 @@ S3 | Adjectives
 
 S4 | Nouns
 1 | stan | apartment
-2 | hladnjak | fridge
+2 | hladnjak | fridge (formal)
 3 | čaj | tea
 4 | trava | grass 
 5 | sunce | sun

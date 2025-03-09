@@ -42,7 +42,7 @@ S2 | Vocabulary
 13 | losos (sg.) | salmon
 14 | marmelada | marmelade
 15 | dobiti (dobijem) | to get
-16 | ostava | pantry
+16 | ostava | pantry (big)
 17 | brašno | flour
 18 | zamrzivača | freezer
 19 | ulje | oil
