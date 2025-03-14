@@ -59,7 +59,7 @@ S4 | Prepositions
 1 | iza + gen. | behind
 2 | ispred + gen. | in front of
 3 | iznad + gen. | above
-4 | ispod + gen. | below
+4 | ispod + gen. | below, under
 5 | između + gen. | between
 6 | kraj + gen. | next to (emphasise closeness), at the edge/end of
 7 | pokraj + gen. | right next to (direct adjacency)
