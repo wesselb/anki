@@ -27,7 +27,7 @@ S3 | Rooms and Furniture
 7 | blagovaonica | dining room
 8 | podrum | basement
 9 | (dućni) ured | (home) office
-10 | (dnevi) boravak | living room (alternative)
+10 | (dnevni) boravak | living room (alternative)
 11 | kotlovnica | boiler room (large)
 12 | polica | shelf
 13 | komoda | commode, dresser
@@ -49,7 +49,7 @@ S3 | Rooms and Furniture
 24 | frižider | fridge
 25 | fotelja | armchair
 26 | dvosjed | two-seater (couch)
-27 | trosjed | tri-seater (couch)
+27 | trosjed | three-seater (couch)
 28 | četverosjed | four-seater (couch)
 29 | garnitura | set of furniture
 30 | kutna garnitura | L-shaped or U-shaped sofa (set)

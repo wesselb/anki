@@ -12,7 +12,7 @@ S2 | Vocabulary
 3 | Vani je oblačno. | It is cloudy outside.
 4 | Vani je vjetrovito. | It is windy outside.
 5 | može se vidjeti | it can be seen (passive sentence with transitive verb)
-6 | može se izaći | it can be seen (impersonal sentence with intransitive verb)
+6 | može se izaći | one can go out (impersonal sentence with intransitive verb)
 7 | izaći (izađem) | to go out (pf.)
 8 | izlaziti (izlazim) | to go out (imp.)
 9 | zajednički | shared
