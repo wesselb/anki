@@ -1,0 +1,40 @@
+L32 | 2025-03-17: Semester 2: Lesson 18
+
+S1 | Months
+1 | siječanj | January
+2 | veljača |  February
+3 | ožujak | March
+4 | travanj | April
+5 | svibanj | May
+6 | lipanj | June
+7 | srpanj | July
+8 | kolovoz | August
+9 | rujan | September
+10 | listopad | October
+11 | studeni | November
+12 | prosinac | December
+
+S2 | Vocabulary
+1 | stolac | chair (formal)
+2 | bitno | important (alternative)
+3 | majka | mother
+4 | otac | father
+5 | kod + gen. | at
+6 | ondje | there (farther away than tamo)
+7 | pokazivati (pokazujem) | to show
+8 | ugao | corner
+9 | sredina | the middle
+10 | stajati (stojim) | to stand
+11 | (nje)ga | him, it (acc./gen.)
+12 | napokon | finally
+13 | prizemlje | ground floor
+14 | kamin | fireplace
+15 | izlaz | exit
+16 | prvi, drugi, treći kat | first, second, third floor
+17 | nalaziti se (nalazim se) | is situated/located
+18 | ranije | earlier
+19 | zvoniti (zvonim) | to ring
+20 | kupka | bath
+21 | natočiti (natočim) | to pour
+22 | biljka | plant
+23 | zid | wall
