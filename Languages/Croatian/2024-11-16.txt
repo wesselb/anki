@@ -37,7 +37,7 @@ S3 | Fruits
 2 | dinja (sg.) | melon
 3 | naranče (pl.) | oranges
 4 | kruške (pl.) | pears
-5 | jagode (pl.) | strawberries
+5 | jagoda (sg.) | strawberry
 6 | jabuke (pl.) | apples
 7 | banane (pl.) | bananas
 8 | grožđe (pl.) | grapes

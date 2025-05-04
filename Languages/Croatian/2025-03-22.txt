@@ -1,0 +1,35 @@
+L33 | 2025-03-22: Semester 2: Lesson 19
+
+S1 | Vocabulary
+1 | djetinjstvo | childhood
+2 | informatika | computer science
+3 | matematika | mathematics
+4 | zemljopis | geography
+5 | kroatistika | Croatian study
+
+S2 | Countries
+1 | Slovenija | Slovenia
+2 | Mađarska | Hungary
+3 | Srbija | Serbia
+4 | Bosna i Hercegovina | Bosnia and Herzegovina
+5 | Crna Gora | Montenegro
+6 | Italija | Italy
+7 | Nizozemska | Netherlands
+8 | Njemačka | Germany
+9 | Belgija | Belgium
+10 | Luksemburg | Luxembourg
+11 | Francuska | France
+12 | Ujedinjeno Kraljevstvo | United Kingdom
+13 | Engleska | England
+
+S3 | Seas
+1 | Sjeverno more | North Sea
+2 | Atlantski ocean | Atlantic Ocean
+3 | Jadransko more | Adriatic Sea
+4 | Sredozemno more | Mediterranean Sea
+
+S4 | Directions
+1 | sjeverno od + gen. | north of
+2 | zapadno od + gen. | west of
+3 | istočno od + gen. | east of
+4 | južno od + gen. | south of

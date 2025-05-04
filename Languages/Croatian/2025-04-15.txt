@@ -1,0 +1,36 @@
+L38 | 2025-04-15: Semester 2: Lesson 24
+
+S1 | Vocabulary
+1 | zrakoplov | airplane
+2 | kamion | truck
+3 | parkiralište | parking lot
+4 | tunel | tunnel
+5 | teras | terrass
+6 | drvo, drveće | tree
+7 | suncobran | parasol
+8 | prometan znak | traffic sign
+9 | ruža | rose
+10 | aspirin | aspirin
+11 | turistički vodič po Hrvatskoj | tourist guide for Croatia
+12 | kupiti (kupim) | to buy (pf.)
+13 | kupovati (kupujem) | to buy (imp.)
+14 | sapun | soap
+15 | pasta za zube | toothpaste
+16 | četkica za zube | toothbrush
+17 | orhideja | orchid
+18 | vaza | vase
+19 | dekoracija | decoration
+20 | brufen | ibuprofen
+21 | lijek | medicine
+22 | tablet | tablet
+23 | krema | creme
+24 | zavoj | bandage
+25 | kroasan | croissant
+
+S2 | Shops
+1 | mesnica | butcher
+2 | ribarnica | fish monger
+3 | drogerija | drugstore
+4 | kiosk | kiosk
+5 | pekarnica | bakery (formal)
+6 | ljekarna | pharmacy

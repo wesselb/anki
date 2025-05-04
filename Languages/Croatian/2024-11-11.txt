@@ -55,7 +55,7 @@ S3 | Foods
 25 | krafna | donut
 26 | riža | rice
 27 | tjestenina | pasta
-28 | jagode (pl.) | strawberries
+28 | jagoda (sg.) | strawberry
 29 | voće (sg.) | fruit
 30 | dinja (sg.) | melon
 31 | kikiriki (pl.) | peanuts

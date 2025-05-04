@@ -22,7 +22,7 @@ S2 | Vocabulary
 5 | kod + gen. | at
 6 | ondje | there (farther away than tamo)
 7 | pokazivati (pokazujem) | to show
-8 | ugao | corner
+8 | ugao | corner (usually, of street)
 9 | sredina | the middle
 10 | stajati (stojim) | to stand
 11 | (nje)ga | him, it (acc./gen.)
