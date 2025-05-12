@@ -42,11 +42,11 @@ S3 | Verbs
 2 | provesti (provedem) | to spend
 3 | zaboraviti (zaboravim) | to forget
 4 | ponijeti (ponesem) | to take
-5 | nositi (nosim) | to wear
+5 | nositi (nosim) | to wear, to bring, to carry
 6 | obilaziti (obilazim) | to go around
 7 | graditi (gradim) | to build
 8 | pobjeći (pbjegnem, pobjegneš) | to run away
-9 | ljetovati (ljetujem) | to be on vacation
+9 | ljetovati (ljetujem) | to be on summer vacation
 
 S4 | Other
 1 | prije + gen. | before

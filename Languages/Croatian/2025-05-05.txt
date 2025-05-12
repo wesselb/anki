@@ -1,0 +1,29 @@
+L39 | 2025-05-05: Semester 2: Lesson 25
+
+S1 | Perfective and Imperfective Verbs
+1 | ulaziti (ulazim) | to enter (imp.)
+1-2 | ući (uđem) | to enter (pf.)
+2 | dolaziti (dolazim) | to come (imp.)
+2-2 | doći (dođem) | to come (pf.)
+3 | izlaziti (izlazim) | to exit (imp.)
+3-2 | izaći (izađem) | to exit (pf.)
+4 | putovati (putujem) | to travel (imp.)
+5 | doručkovati (doručkujem) | to have breakfast (imp.)
+6 | vjerovati (vjerujem) | to believe (imp.)
+7 | posjećivati (posjećujem) | to visit (imp.)
+7-2 | posjetiti (posjetim) | to visit (pf.)
+8 | dosađivati se (dosađujem se) | to be bored (imp.)
+9 | uređivati (uređujem) | to arrange, edit, decorate, organise (imp.)
+10 | stanovati (stanujem) | to live (imp.)
+11 | zimovati (zimujem) | to be on winter holiday (imp.)
+12 | sudjelovati (sudjelujem) | to participate (imp.)
+13 | zapisivati (zapisujem) | to write down (imp.)
+14 | lagati (lažem) | to lie (imp.)
+14-2 | slagati (slažem) | to lie (pf.)
+
+S2 | Vocabulary
+1 | dinamičan | dynamic
+2 | statičan | static
+3 | najčešće | most often
+4 | isti | the same
+5 | natjecanje | competition
