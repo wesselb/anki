@@ -5,7 +5,7 @@ S1 | Exceptions
 2 | Idem doma. (adverbial form) / Idem kući. (dat.) | I am going home.
 3 | Ja sam kod bake. | I am at grandma's.
 4 | Idem k baki. (dat.) | I am going to grandma's.
-5 | k + dat. | to
+5 | k + dat. | to (for people's places)
 
 S2 | Vocabulary
 1 | nos | nose
