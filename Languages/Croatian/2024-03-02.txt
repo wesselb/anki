@@ -68,7 +68,7 @@ S5 | Vocabulary: Classroom
 6 | stol | table
 7 | stolica | chair
 8 | sat | hour / clock
-9 | vrata | door
+9 | vrata (pl.) | door
 10 | prozor | window
 11 | kemijska (olovka) | pen (lit.: chemical pencil)
 12 | olovka | pencil

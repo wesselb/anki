@@ -61,7 +61,7 @@ S4 | Vocabulary
 S5 | Verbs
 1 | trenirati | to train
 2 | tuširati se | to shower
-3 | provjeravati | to check
+3 | provjeravati | to check (imp.)
 4 | češljati se | to comb your hair (lit.: comb yourself)
 5 | vježbati | to exercise
 6 | piti (pijem) | to drink

@@ -1,0 +1,440 @@
+VOCAB-A2.1 | Vocabulary A2.1
+
+S1 | Vocabulary
+1 | ako | if
+2 | aktivnost | activity
+3 | avion | airplane
+4 | baka | grandma
+5 | bankomat | ATM
+6 | baviti se | to occupy; to practice; to do
+7 | baviti se sportom | to do sports
+8 | bazen | swimming pool
+9 | benzinska pumpa | gas station
+10 | besplatan | free (of charge)
+11 | bez | without
+12 | biljka | plant
+13 | blagajna | cash register
+14 | bluza | blouse
+15 | Božić | Christmas
+16 | brijati se | to shave
+17 | brzo | fast, quickly
+18 | budilica | alarm clock
+19 | cijeli dan | all day
+20 | cijena | price
+21 | cipela | shoe
+22 | cipele na petu | high heels
+23 | crn | black
+24 | crven | red
+25 | cvijeće | flowers
+26 | čaj | tea
+27 | čarapa | sock
+28 | časopis | magazine
+29 | često | often
+30 | čim | as soon as
+31 | čitati | to read
+32 | čizma | boot
+33 | čudan | weird
+34 | daleko | far away
+35 | danas | today
+36 | dati | to give
+37 | dečko | boyfriend; guy
+38 | desno | right
+39 | dijete | child
+40 | djeca | children
+41 | djed | grandpa
+42 | djevojka | girlfriend; girl
+43 | Dobar tek! | Bon appetit!
+44 | dobiti | to get
+45 | doći | to come; to arrive
+46 | dodaci | accessories
+47 | dogoditi se | to happen
+48 | dolaziti | to come; to arrive
+49 | domaća hrana | homemade food
+50 | domaća zadaća | homework
+51 | domaćin | host
+52 | donijeti | to bring
+53 | doručak | breakfast
+54 | doručkovati | to have breakfast
+55 | drag | dear; nice
+56 | društvo | company; society
+57 | država | country
+58 | dugo | a long time
+59 | duže | longer
+60 | džemper | sweater
+61 | gdje | where
+62 | gladan | hungry
+63 | glava | head
+64 | glazba | music
+65 | gledati | to watch, to look
+66 | godinama | for years
+67 | gorjeti | to burn
+68 | gospodin | mister
+69 | gospođa | misses
+70 | gost | guest
+71 | gotovina | cash
+72 | grad | city
+73 | gramatika | grammar
+74 | grozan | terrible
+75 | grudnjak | bra
+76 | gumica za kosu | hairband
+77 | haljina | dress
+78 | hlače | pants
+79 | hladno | cold
+80 | hodati | to walk
+81 | hrana | food
+82 | hrvatski | croatian
+83 | htjeti | to want
+84 | hvala | thank you
+85 | ići | to go
+86 | igralište | playground
+87 | ime | name
+88 | isprobati | to try on
+89 | istina | truth
+90 | izabrati | to choose
+91 | izlaziti | to go out
+92 | izlet | excursion
+93 | iznimka | exception
+94 | izuti | to take shoes off
+95 | izvan | outside of
+96 | izvesti | to take someone out
+97 | jabuka | apple
+98 | jakna | jacket
+99 | jednom | once
+100 | jer | because
+101 | jesti | to eat
+102 | još | more
+103 | jučer | yesterday
+104 | kabina | dressing room
+105 | kad/a | when
+106 | kada | bathtub
+107 | kamo | where to
+108 | kampiranje | camping
+109 | kapa | cap
+110 | kaput | coat
+111 | karta | map; ticket
+112 | kartica | card
+113 | kasnije | later
+114 | kava | coffee
+115 | kazalište | theater
+116 | ključ | key
+117 | knjiga | book
+118 | knjižara | bookshop
+119 | kolač | cake
+120 | koliko dugo | how long
+121 | kolovoz | August
+122 | komad | piece
+123 | kome | to whom
+124 | konačno | finally
+125 | konobar | waiter
+126 | koristiti | to use
+127 | košulja | shirt
+128 | kravata | tie
+129 | krevet | bed
+130 | kruh | bread
+131 | kuhati | to cook
+132 | kupac | buyer
+133 | kupaće gaćice | swimming trunks
+134 | kupaći kostim | swimming suit
+135 | kupati se | to take a bath
+136 | kupiti | to buy
+137 | kupovati | to shop
+138 | kupovina | shopping
+139 | leći | to lay down
+140 | led | ice
+141 | let | flight
+142 | lopov | thief
+143 | lubenica | watermelon
+144 | ljekarna | pharmacy
+145 | ljetni praznici | summer holidays
+146 | ljetovanje | summer holiday
+147 | ljetovati | to take a summer holiday
+148 | ljut | angry
+149 | mačka | cat
+150 | majica | T shirt
+151 | malo | a little bit; little, small
+152 | manje | less; fewer
+153 | marama | scarf
+154 | maštovit | imaginative
+155 | medvjedić | teddy bear
+156 | minica | mini skirt
+157 | misliti | to think
+158 | moći | to be able to
+159 | more | sea
+160 | na kraju | on the end
+161 | naći | to find
+162 | najbolji | the best
+163 | najgori | the worst
+164 | nakit | jewelry
+165 | nakon | after
+166 | napraviti | to do; to make
+167 | naravno | of course
+168 | naručiti | to order
+169 | narukvica | bracelet
+170 | naušnica | earring
+171 | navečer | in the evening
+172 | nažalost | unfortunately
+173 | nećak | nephew
+174 | nekoliko | a few
+175 | nešto | something
+176 | nikad | never
+177 | ništa | nothing
+178 | noga | leg
+179 | nositi | to wear; to carry
+180 | novac | money
+181 | novčanik | wallet
+182 | novine | newspaper
+183 | nož | knife
+184 | nuditi | to offer
+185 | obično | usually
+186 | obići | to tour; to go around
+187 | obitelj | family
+188 | obožavati | to adore
+189 | obući | to put on
+190 | od | from
+191 | odijelo | suit
+192 | odjeća | clothes
+193 | odjevni predmet | clothing item
+194 | odlično | great
+195 | odlučiti | to decide
+196 | odmah | right away
+197 | odmarati se | to rest
+198 | ogrlica | necklace
+199 | oprati | to wash
+200 | osjećati se | to feel
+201 | ostatak | the rest; change
+202 | otvoriti | to open
+203 | palačinka | pancake
+204 | papirić | small paper
+205 | pas | dog
+206 | pasti | to fall
+207 | peći | to bake
+208 | pekarnica | bakery
+209 | pitanje | question
+210 | pitati | to ask
+211 | pjesma | song
+212 | pjevanje | singing
+213 | pjevati | to sing
+214 | planinarenje | hiking
+215 | planirati | to plan
+216 | platiti | to pay
+217 | plav | blue
+218 | plaža | beach
+219 | plesanje | dancing
+220 | plesati | to dance
+221 | plivanje | swimming
+222 | pobjeći | to run away
+223 | pogledati | to look; to watch
+224 | pokazati | to show
+225 | poklanjati | to give as a gift
+226 | poklon | present
+227 | pokloniti | to give as a gift
+228 | policajac | policeman
+229 | policija | police
+230 | pomoći | to help
+231 | ponavljanje | review; repetition
+232 | ponekad | sometimes
+233 | ponoć | midnight
+234 | popust | discount
+235 | poruka | message
+236 | posao | work; job
+237 | posjet | visit
+238 | poslati | to send
+239 | poslije | after, afterwards
+240 | poštanski broj | postal code
+241 | potok | stream
+242 | potpis | signature
+243 | povrće | vegetables
+244 | pozdraviti | to say hello
+245 | poznat | famous
+246 | pozornost | attention
+247 | prati | to wash
+248 | prazan | empty
+249 | praznici | holidays
+250 | praznik | holiday
+251 | predmet | item; subject
+252 | predstava | theater show
+253 | predugo | too long
+254 | preko puta | across the street
+255 | prekrasan | wonderful
+256 | prema | towards
+257 | premalo | too little; too few
+258 | prerano | too early
+259 | preskupo | too expensive
+260 | pretprošle godine | year before last year
+261 | previše | too much, too many
+262 | prezime | surname
+263 | priča | story
+264 | pričati | to talk
+265 | prijatelj | friend
+266 | prije | before
+267 | primati | to receive
+268 | probati | to try
+269 | probuditi se | to wake up
+270 | proći ispit | to pass an exam
+271 | prodavač | salesman
+272 | prošle godine | last year
+273 | prošle subote | last Saturday
+274 | provesti | to spend time
+275 | provjeriti | to check
+276 | prsluk | waist coat
+277 | prtljaga | luggage
+278 | prvo | first; firstly
+279 | puno | a lot; many
+280 | pušiti | to smoke
+281 | put | way; trip
+282 | putovati | to travel
+283 | raditi | to work; to do
+284 | radni dan | work day
+285 | ranije | earlier
+286 | rasprodano | sold out
+287 | ravno | straight
+288 | razgledavanje | sightseeing
+289 | razgledavati | to sightsee
+290 | razglednica | postcard
+291 | razgovarati | to converse
+292 | razmišljati | to contemplate
+293 | razumjeti | to understand
+294 | reći | to say
+295 | remen | belt
+296 | rezervirati | to make a reservation
+297 | riječ | word
+298 | rijeka | river
+299 | roditelji | parents
+300 | rođak | cousin
+301 | rođendan | birthday
+302 | romantičan | romantic
+303 | ronjenje | diving
+304 | roštilj | barbecue
+305 | ručak | lunch
+306 | ručati | to have lunch
+307 | ručnik | towel
+308 | ruka | arm
+309 | rukavica | glove
+310 | s kim | with who
+311 | samo | only, just
+312 | sandala | sandal
+313 | sanjkanje | sledging
+314 | sastanak | meeting
+315 | sat | hour; watch; clock; lesson
+316 | selo | village
+317 | sir | cheese
+318 | sjediti | to sit
+319 | sjesti | to sit
+320 | skijanje | skiing
+321 | skije | skis
+322 | skup | expensive
+323 | sladoled | ice cream
+324 | slati | to send
+325 | slično | similar
+326 | slušati | to listen
+327 | sljedeći tjedan | next week
+328 | smeđ | brown
+329 | smiješno | funny
+330 | snijeg | snow
+331 | snimiti | to record
+332 | sniženje | discount
+333 | spakirati | to pack
+334 | spavanje | sleeping
+335 | spavati | to sleep
+336 | sporo | slowly
+337 | sresti | to run into
+338 | sretan | happy
+339 | stol | table
+340 | stolica | chair
+341 | stric | uncle on your father’s side
+342 | stvar | thing
+343 | stvarno | really
+344 | subota | Saturday
+345 | suknja | skirt
+346 | sunčanje | sunbathing
+347 | susjed | neighbor
+348 | susjedov | neighbor’s
+349 | svaka dva sata | every 2 hours
+350 | svaki dan | every day
+351 | svaki vikend | every weekend
+352 | sviđati se | to like
+353 | svila | silk
+354 | svući | to take off
+355 | šal | shawl
+356 | šaren | colorful
+357 | šešir | hat
+358 | šetnja | walk
+359 | šiba | twig
+360 | šminkati se | to put makeup on
+361 | što | what
+362 | tamo | there
+363 | tartuf | truffle
+364 | teći | to flow
+365 | tek | only
+366 | težak | heavy; difficult
+367 | tko | who
+368 | toplo | warm
+369 | torba | bag
+370 | torbica | purse
+371 | torta | birthday cake
+372 | tramvaj | tram
+373 | traperice | jeans
+374 | tražiti | to look for, to search
+375 | trčanje | running
+376 | trčati | to run
+377 | trenirka | tracksuit
+378 | trenutak | moment
+379 | trenutno | at the moment
+380 | trgovina | store
+381 | tulum | party
+382 | tuširati se | to take a shower
+383 | u blizini | nearby
+384 | učiti | to learn, to study
+385 | ući | to enter
+386 | ukrasti | to steal
+387 | ulica | street
+388 | umirovljenik | pensioner
+389 | umoran | tired
+390 | umoriti se | to get tired
+391 | unuk | grandson
+392 | uređivati | to decorate; to edit
+393 | uskoro | soon
+394 | Uskrs | Easter
+395 | ustajati | to get up
+396 | ustati | to get up
+397 | utakmica | match
+398 | uvijek | always
+399 | užasan | terrible
+400 | uživati | to enjoy
+401 | vatra | fire
+402 | večera | dinner
+403 | večerati | to have dinner
+404 | već | already
+405 | veličina | size
+406 | veseo | cheerful
+407 | vijesti | news
+408 | vikati | to shout
+409 | vilica | fork
+410 | više | more
+411 | vjenčanje | wedding
+412 | vlak | train
+413 | vratiti | to give back
+414 | vrećica | bag
+415 | vrhnje | cream
+416 | vrijeme | time; weather
+417 | vrt | garden
+418 | vući | to pull; to drag
+419 | za koga | for whom
+420 | zaboraviti | to forget
+421 | zadaća | homework
+422 | zadnje | last
+423 | zadnji put | last time
+424 | zakasniti | to be late
+425 | zaliti | to water
+426 | zaljubiti se | to fall in love
+427 | zamijeniti | to replace
+428 | zatvoren | closed
+429 | završavati | to finish
+430 | zelen | green
+431 | zimovati | to take a winter holiday
+432 | zrakoplov | airplane
+433 | zub | tooth
+434 | Žao mi je. | I’m sorry.
+435 | željeti | to wish
+436 | živjeti | to live
+437 | život | life

@@ -11,5 +11,5 @@ S1 | Miscellaneous
 8 | u podne | at noon
 9 | penjati (penjem) se na stijenu | to rock climb 
 10 | roniti (ronim) | to dive
-11 | prati (perem) zube | to brush teeth
+11 | prati (perem) zube | to brush teeth (imp.)
 12 | padati (padam) | to fall

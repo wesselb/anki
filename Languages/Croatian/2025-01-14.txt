@@ -21,7 +21,7 @@ S1 | Amounts
 18 | porcija | portion
 19 | boca | bottle
 20 | kuglica | ball (e.g. of ice cream)
-21 | par | couple
+21 | par | couple, pair
 22 | glavica | head (e.g. of lettuce)
 23 | teglica | jar
 24 | kocka | cube
