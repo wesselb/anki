@@ -41,5 +41,5 @@ S2 | Verbs
 14 | krenuti (krenem) | to start off
 15 | paziti (pazim) | to watch
 16 | loviti (lovim) | to hunt, to catch
-17 | prati (perem) | to wash
+17 | prati (perem) | to wash (imp.)
 18 | ostati (ostanem) | to stay

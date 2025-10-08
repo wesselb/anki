@@ -1,0 +1,28 @@
+L49 | 2025-09-16: Semester 3: Lesson 5
+
+S1 | Miscellaneous
+1 | konačno | finally
+2 | lopov | thief
+3 | duže | longer
+
+S2 | Verbs
+1 | došao/došla sam | i came
+2 | obući (obučem) | to put on, to dress (pf.)
+3 | obukao/obukla sam | i put on, i dressed
+4 | obići (obiđem) | to visit (pf.)
+5 | obišao/obišla sam | i visited
+6 | vući (vučem) | to drag, to haul (pf.)
+7 | vukao/vukla sam | i dragged, i hauled
+8 | pobjegao/pobjegla sam | i ran away
+9 | ušao/ušla sam | i entered
+10 | razumio/razumjela sam | i understood
+11 | sresti (sretnem) | to run into, to meet (pf.)
+12 | sreo/srela sam | i ran into, i met
+13 | ukrasti (ukradem) | to steal (pf.)
+14 | ukrao/ukrala sam | i stole
+15 | leći (ležem) | to lay down (pf.)
+16 | legao/legla sam | i laid down
+17 | umoriti (umorim) se | to be tired (pf.)
+18 | vraćati (vraćam) | to give back, to return (pf.)
+19 | krasti (kradem) | to steal (imp.)
+

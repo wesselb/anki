@@ -1,0 +1,59 @@
+L50 | 2025-09-23: Semester 3: Lesson 6
+
+S1 | Miscellaneous
+1 | srce | heart
+2 | političar | politician
+3 | poznat | famous
+4 | potok | stream, creek
+5 | sporo | slowly
+6 | instina | truth
+7 | nikad više | never again
+
+S2 | Verbs
+1 | pekao/pekla sam | i baked
+2 | tući (tučem) | to beat, to fight (pf.)
+3 | oprati (operem) | to wash (pf.)
+4 | izići (iziđem) | to go out (pf.)
+5 | izišao/izišla sam | i went out
+6 | proći (prođem) | to pass (pf.)
+7 | prošao/prošla sam | i passed
+8 | našao/našla sam | i found
+9 | teći (tečem) | to flow (pf.)
+10 | tekao/tekla sam | i flowed
+11 | obećati (obećam) | to promise (pf.)
+12 | obećao/obećala sam | i promised
+13 | pocrvenjeti (pocrvenim) | to turn red (pf.)
+
+S3 | Clothing
+1 | šal | scarf
+2 | bluza | blouse
+3 | prsluk | vest
+4 | majica | t-shirt
+5 | džemper | sweater
+6 | jakna | jacket
+7 | čarape (pl.) | socks
+8 | remen | belt
+9 | kapa | hat, cap
+10 | haljina | dress
+11 | cipele (pl.) | shoes
+12 | hlače (pl.) | pants
+13 | košulja | shirt
+14 | grudnjak | bra
+15 | čizme | boots
+16 | suknja | skirt
+17 | pareo | pareo
+18 | ruksak | rucksack
+19 | minica | miniskirt
+20 | baloner | raincoat
+21 | kupaće gaćice | swimming trunks
+22 | rukavice (pl.) | gloves
+23 | ogrlica | necklace
+24 | naušnice (pl.) | earrings
+25 | torbica | handbag
+26 | cipele na petu (pl.) | heels
+27 | narukvica | bracelet
+28 | gumica za kosu | hair tie
+29 | sandale | sandals
+30 | marama | headscarf
+31 | nakit | jewelry
+32 | dodaci | accessories

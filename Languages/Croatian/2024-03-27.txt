@@ -63,7 +63,7 @@ S3 | Adjectives
 20-2 | dosadan | boring
 21 | lak | easy, light
 21-2 | jednostavan | easy, simple
-21-3 | težak | hard
+21-3 | težak | hard, heavy
 22 | odličan | excellent
 23 | smiješan | funny
 24 | zreo | mature

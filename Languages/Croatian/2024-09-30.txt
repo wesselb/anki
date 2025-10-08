@@ -41,7 +41,7 @@ S3 | Verbs
 1 | dolaziti (dolazim) | to come
 2 | provesti (provedem) | to spend
 3 | zaboraviti (zaboravim) | to forget
-4 | ponijeti (ponesem) | to take
+4 | ponijeti (ponesem) | to take with you
 5 | nositi (nosim) | to wear, to bring, to carry
 6 | obilaziti (obilazim) | to go around
 7 | graditi (gradim) | to build
