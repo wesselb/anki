@@ -16,7 +16,7 @@ S2 | Vocabulary
 8 | kafić | coffee shop
 9 | ruka | hand
 10 | pecivo | sweet pastry or baked good from bakery
-11 | noga | foot
+11 | noga | foot, leg
 12 | selo | village
 13 | škola | school
 14 | tramvaj | tram

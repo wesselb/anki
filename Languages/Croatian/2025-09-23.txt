@@ -13,8 +13,8 @@ S2 | Verbs
 1 | pekao/pekla sam | i baked
 2 | tući (tučem) | to beat, to fight (pf.)
 3 | oprati (operem) | to wash (pf.)
-4 | izići (iziđem) | to go out (pf.)
-5 | izišao/izišla sam | i went out
+4 | izići (iziđem) | to go out, to exit/leave (pf.)
+5 | izišao/izišla sam | i went out, i exited/left
 6 | proći (prođem) | to pass (pf.)
 7 | prošao/prošla sam | i passed
 8 | našao/našla sam | i found
@@ -39,13 +39,13 @@ S3 | Clothing
 12 | hlače (pl.) | pants
 13 | košulja | shirt
 14 | grudnjak | bra
-15 | čizme | boots
+15 | čizme (pl.) | boots
 16 | suknja | skirt
 17 | pareo | pareo
 18 | ruksak | rucksack
 19 | minica | miniskirt
 20 | baloner | raincoat
-21 | kupaće gaćice | swimming trunks
+21 | kupaće gaćice (pl.) | swimming trunks
 22 | rukavice (pl.) | gloves
 23 | ogrlica | necklace
 24 | naušnice (pl.) | earrings
@@ -53,7 +53,7 @@ S3 | Clothing
 26 | cipele na petu (pl.) | heels
 27 | narukvica | bracelet
 28 | gumica za kosu | hair tie
-29 | sandale | sandals
+29 | sandale (pl.) | sandals
 30 | marama | headscarf
 31 | nakit | jewelry
 32 | dodaci | accessories

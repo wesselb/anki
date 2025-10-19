@@ -17,7 +17,7 @@ S1 | Miscellaneous
 14 | udati (udajem) se za + acc. | to marry with
 
 S2 | Past Tense
-1 | htio/htjela sam | i would have liked
+1 | htio/htjela sam | i wanted
 2 | volio/voljela sam | i loved
 3 | pao/pala sam | i fell
 4 | sjeo/sjela sam | i sat

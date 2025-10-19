@@ -14,7 +14,7 @@ S2 | Vocabulary
 5 | može se vidjeti | it can be seen (passive sentence with transitive verb)
 6 | može se izaći | one can go out (impersonal sentence with intransitive verb)
 7 | izaći (izađem) | to go out (pf.)
-8 | izlaziti (izlazim) | to go out (imp.)
+8 | izlaziti (izlazim) | to go out, to exit/leave (imp.)
 9 | zajednički | shared
 10 | roštiljati (roštiljam) | to barbecue
 11 | mekan, mekana, mekano | soft
