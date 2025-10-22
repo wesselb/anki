@@ -18,17 +18,17 @@ S2 | Clothing and Items
 8 | traperice (pl.) | jeans
 
 S3 | Shopping
-1 | balagjna | cash register
+1 | blagajna | cash register
 2 | veličina | size (of clothing)
 3 | gotovina | cash
 4 | cijena | price
 5 | kupac | customer
-6 | kartica | card
+6 | kartica | card (to pay with)
 7 | potpis | signature
 8 | isprobati (isprobam) | to try on (pf.)
 9 | bankomat | ATM
 10 | popust | discount
 11 | kabina | cabin (e.g., dressing room)
-12 | zamijeniti (zamijenim) | to replace (pf.)
+12 | zamijeniti (zamijenim) | to replace, to exchange (pf.)
 13 | nuditi (nudim) | to offer (imp.)
 14 | trgovac | merchant
