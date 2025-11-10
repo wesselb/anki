@@ -31,7 +31,7 @@ S2 | Vocabulary
 14 | kamin | fireplace
 15 | izlaz | exit
 16 | prvi, drugi, treći kat | first, second, third floor
-17 | nalaziti se (nalazim se) | is situated/located
+17 | nalaziti (nalazim) se | is situated/located
 18 | ranije | earlier
 19 | zvoniti (zvonim) | to ring
 20 | kupka | bath

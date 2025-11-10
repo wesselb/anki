@@ -7,4 +7,4 @@ S1 | Miscellaneous
 4 | pretprošli | the one before last
 5 | brijati (brijem) se | to shave (imp.)
 6 | probuditi (probudim) se | to wake up (pf.)
-7 | probuđivati (probuđujum) se | to wake up (imp.)
+7 | probuđivati (probuđujem) se | to wake up (imp.)

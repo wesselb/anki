@@ -17,7 +17,7 @@ S1 | Vocabulary
 14 | ispit | exam
 15 | svjež | fresh
 16 | otići (odem) | to leave / to go away 
-17 | dogovoriti se (dogovorim se) | to agree
+17 | dogovoriti (dogovorim) se | to agree
 18 | Majčin dan | Mother's Day
 19 | niti | neither
 20 | deterdžent za rublje | laundy detergent

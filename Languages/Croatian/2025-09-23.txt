@@ -13,7 +13,7 @@ S2 | Verbs
 1 | pekao/pekla sam | i baked
 2 | tući (tučem) | to beat, to fight (pf.)
 3 | oprati (operem) | to wash (pf.)
-4 | izići (iziđem) | to go out, to exit/leave (pf.)
+4 | izići (iziđem), izaći (izađem) | to go out, to exit/leave (pf.)
 5 | izišao/izišla sam | i went out, i exited/left
 6 | proći (prođem) | to pass (pf.)
 7 | prošao/prošla sam | i passed

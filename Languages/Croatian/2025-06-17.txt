@@ -2,7 +2,8 @@ L44 | 2025-06-17: Semester 2: Lesson 30
 
 S1 | Miscellaneous
 1 | odabrati (odaberem) | to choose, to select (pf.)
-2 | napisati (napišem) | to write (down) (pf.)
+2 | napisati (napišem) | to write (pf.)
+2-2 | napisivati (napisujem) | to write (imp.)
 3 | ostali (pl.) | the others, the remaining
 4 | stipendija | stipend
 5 | tijesto | dough, pasta

@@ -5,7 +5,7 @@ S1 | Miscellaneous
 2 | domaće hrane | homemade food
 3 | boraviti (boravim) | to reside, to stay (imp.)
 4 | razgledati (razgledam) | to look around (imp.)
-5 | prijaviti se (prijavim se) | to check in, to sign in, to apply (imp.)
+5 | prijaviti (prijavim) se | to check in, to sign in, to apply (imp.)
 6 | sanjkanje | sledding
 7 | ronjenje | diving
 8 | sunčanje | sunbathing

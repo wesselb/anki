@@ -6,7 +6,7 @@ S1 | Vocabulary
 3 | dobar, bolji, najbolji | good, better, best
 4 | ladičar | drawer
 5 | unaprijed | in advance
-6 | nadati se (nadam se) | to hope
+6 | nadati (nadam) se | to hope
 7 | čuvati (čuvam) | to take care of, to protect/guard
 8 | daljinski | remote
 9 | klima | air conditioning
