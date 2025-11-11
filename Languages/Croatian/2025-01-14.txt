@@ -14,7 +14,7 @@ S1 | Amounts
 11 | gram, dekagram, kilogram | gram, decagram, kilogram
 12 | deciliter | deciliter
 13 | žlica, žličica | spoon, tea spoon
-14 | šalica | cup
+14 | šalica | cup, mug
 15 | tanjur | plate
 16 | komad | piece
 17 | kutija | box

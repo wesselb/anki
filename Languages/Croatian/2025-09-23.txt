@@ -33,7 +33,7 @@ S3 | Clothing
 6 | jakna | jacket
 7 | čarape (pl.) | socks
 8 | remen | belt
-9 | kapa | hat, cap
+9 | kapa | hat, cap, beanie
 10 | haljina | dress
 11 | cipele (pl.) | shoes
 12 | hlače (pl.) | pants
