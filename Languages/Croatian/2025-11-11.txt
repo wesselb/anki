@@ -17,7 +17,7 @@ S2 | Things
 1 | pulover | pullover
 2 | klizaljke (pl.) | ice skates
 3 | higijenska torbica / neseser | hygiene bag
-4 | privjesak za ključeve | key bag
+4 | privjesak za ključeve | key fob (NL: sleutelhanger)
 5 | rumenilo | blush (make-up)
 6 | ruž | lipstick
 7 | mirisna svijeća | scented candle 
