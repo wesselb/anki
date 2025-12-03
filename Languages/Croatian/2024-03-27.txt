@@ -97,4 +97,4 @@ S5 | Colours
 8 | bijela | white
 9 | crna | black
 10 | tamnoplava | dark blue
-11 | sjevtloplava | light blue
+11 | svijetloplava | light blue

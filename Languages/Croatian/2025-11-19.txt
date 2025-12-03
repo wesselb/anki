@@ -9,4 +9,4 @@ S1 | Miscellaneous
 6 | šira | wider
 7 | modan | fashionable
 8 | dizajner | designer
-9 | umirovljenik | penzioner
+9 | umirovljenik | pensioner
