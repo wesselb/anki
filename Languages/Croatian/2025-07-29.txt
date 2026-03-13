@@ -12,7 +12,7 @@ S1 | Miscellaneous
 9 | gramatika | grammar
 10 | sjesti (sjednem) | to sit (pf.)
 11 | pasti (pastem) | to fall (pf.)
-12 | baviti (bavim) | to do, to attend, to engage in (imp.)
+12 | baviti (bavim) se + ins. | to do, to attend, to engage in (imp.)
 13 | vjetar | wind
 14 | udati (udajem) se za + acc. | to marry with
 

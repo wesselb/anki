@@ -4,7 +4,7 @@ S1 | Vocabulary
 1 | kut | angle, corner (of room or object)
 2 | odjeća (sg.) | clothes
 3 | sanjati (sanjam) | to dream
-4 | sreća | happiness
+4 | sreća | happiness, luck
 5 | uspjeh | success
 6 | sportaš | athlete
 7 | medalja | medal
