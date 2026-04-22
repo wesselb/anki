@@ -23,6 +23,6 @@ S2 | Verbs
 15 | leći (ležem) | to lay down (pf.)
 16 | legao/legla sam | i laid down
 17 | umoriti (umorim) se | to be tired (pf.)
-18 | vraćati (vraćam) | to give back, to return (pf.)
+18 | vraćati (vraćam) | to give back, to return (imp.)
 19 | krasti (kradem) | to steal (imp.)
 
