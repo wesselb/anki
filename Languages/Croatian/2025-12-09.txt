@@ -7,6 +7,6 @@ S1 | Miscellaneous
 4 | izvan + gen. | outside
 5 | nervozan | nervous
 6 | uzbuđen | excited
-7 | sastati (sastanem) | to meet (synonym of sresti)
+7 | sastati (sastanem) se | to meet (synonym of sresti)
 8 | kamp-kućica | caravan
 9 | rezati (režem) | to cut (imp.)

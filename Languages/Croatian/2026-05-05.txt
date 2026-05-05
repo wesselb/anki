@@ -1,0 +1,10 @@
+L65 | 2026-05-05: Semester 3: Recap
+
+S1 | Miscellaneous
+1 | pristojan | polite
+2 | nepristojan | rude
+3 | pogrešan | wrong, incorrect
+4 | toranj | tower
+5 | kriv | crooked, bent, not straight
+6 | kos | leaning, slanted
+7 | Kosi toranj | tower of Pisa
